@@ -1,0 +1,638 @@
+ Static hostname: vnnfkezcbi
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: 04f373d9fdcc4d8ea45674b922669e1e
+         Boot ID: 97766ce08ec74ccb929ea09d9be5e6dd
+  Virtualization: kvm
+Operating System: Ubuntu 24.04.2 LTS
+          Kernel: Linux 6.8.0-71-generic
+    Architecture: x86-64
+ Hardware Vendor: QEMU
+  Hardware Model: Standard PC _i440FX + PIIX, 1996_
+Firmware Version: 1.15.0-1
+   Firmware Date: Tue 2014-04-01
+    Firmware Age: 11y 4month 3w 4d
+---
+Linux vnnfkezcbi 6.8.0-71-generic #71-Ubuntu SMP PREEMPT_DYNAMIC Tue Jul 22 16:52:38 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+---
+Distributor ID:	Ubuntu
+Description:	Ubuntu 24.04.2 LTS
+Release:	24.04
+Codename:	noble
+---
+ 13:54:46 up 19:42,  4 users,  load average: 0.10, 0.15, 0.16
+---
+Filesystem     Type     Size  Used Avail Use% Mounted on
+tmpfs          tmpfs    197M  1.6M  196M   1% /run
+/dev/vda1      ext4      29G   12G   17G  41% /
+tmpfs          tmpfs    984M     0  984M   0% /dev/shm
+tmpfs          tmpfs    5.0M     0  5.0M   0% /run/lock
+/dev/vda16     ext4     881M   61M  758M   8% /boot
+/dev/vda15     vfat     105M  6.2M   99M   6% /boot/efi
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/d3d014f870d696d610e4b7f792ed9afd2131356c73bb21fd57a94375ef902b5c/merged
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/c44f0ed8ae00521fbecc44877c1b7853efcebbb9e8fcad86fca381c413486add/merged
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/d804266ad48ab3ca53a645a6667d66a0263645e78322338ce6b98eb7b701c8c4/merged
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/907fa20e3244c02fb7c0cfcbf6a68dc81dd4bdcc223494279c7442626d1c1814/merged
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/69eff766078f1672b677270ae4f9396e5a6a7b50151173bde984833becdb69e2/merged
+tmpfs          tmpfs    197M  8.0K  197M   1% /run/user/0
+overlay        overlay   29G   12G   17G  41% /var/lib/docker/overlay2/918f7bb524acbd905f29176c86857954e2883bfb818f8cf279cd42fb1f28a7e8/merged
+---
+               total        used        free      shared  buff/cache   available
+Mem:            1967        1131          84          25         969         835
+Swap:              0           0           0
+---
+NAME    FSTYPE   SIZE MOUNTPOINT TYPE
+sr0     iso9660  368K            rom
+vda               30G            disk
+├─vda1  ext4      29G /          part
+├─vda14            4M            part
+├─vda15 vfat     106M /boot/efi  part
+└─vda16 ext4     913M /boot      part
+---
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             45.130.214.222/32 fe80::2b4:34ff:fe12:68c/64 
+docker0          UP             172.17.0.1/16 fe80::d0a8:87ff:feac:9b98/64 
+br-d6be86f32472  UP             172.18.0.1/16 fe80::a01c:f1ff:fef8:2fc6/64 
+veth23ac4d3@if2  UP             fe80::944e:eeff:fe69:c116/64 
+vethecda0ca@if2  UP             fe80::f0b0:c3ff:fe94:92e3/64 
+vethf477ad9@if2  UP             fe80::54b5:56ff:fee8:a690/64 
+veth4205e81@if2  UP             fe80::5c0b:cbff:fe59:a523/64 
+veth26cd118@if2  UP             fe80::6875:23ff:fe81:50c/64 
+vethc58d277@if2  UP             fe80::501f:ebff:fe37:803d/64 
+---
+Netid State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess                                                                                                                  
+udp   UNCONN 0      0         127.0.0.54:53        0.0.0.0:*    users:(("systemd-resolve",pid=962,fd=16)) uid:991 ino:6392 sk:c cgroup:/system.slice/systemd-resolved.service <->       
+udp   UNCONN 0      0      127.0.0.53%lo:53        0.0.0.0:*    users:(("systemd-resolve",pid=962,fd=14)) uid:991 ino:6390 sk:d cgroup:/system.slice/systemd-resolved.service <->       
+tcp   LISTEN 0      4096       127.0.0.1:5432      0.0.0.0:*    users:(("docker-proxy",pid=518280,fd=7)) ino:1529609 sk:1 cgroup:/system.slice/docker.service <->                       
+tcp   LISTEN 0      4096         0.0.0.0:443       0.0.0.0:*    users:(("docker-proxy",pid=518338,fd=7)) ino:1529686 sk:2 cgroup:/system.slice/docker.service <->                       
+tcp   LISTEN 0      4096         0.0.0.0:80        0.0.0.0:*    users:(("docker-proxy",pid=518322,fd=7)) ino:1528646 sk:3 cgroup:/system.slice/docker.service <->                       
+tcp   LISTEN 0      100          0.0.0.0:25        0.0.0.0:*    users:(("master",pid=1549,fd=13)) ino:9504 sk:4 cgroup:/system.slice/system-postfix.slice/postfix@-.service <->         
+tcp   LISTEN 0      4096   127.0.0.53%lo:53        0.0.0.0:*    users:(("systemd-resolve",pid=962,fd=15)) uid:991 ino:6391 sk:5 cgroup:/system.slice/systemd-resolved.service <->       
+tcp   LISTEN 0      4096         0.0.0.0:8080      0.0.0.0:*    users:(("docker-proxy",pid=1150896,fd=7)) ino:3702483 sk:e cgroup:/system.slice/docker.service <->                      
+tcp   LISTEN 0      4096      127.0.0.54:53        0.0.0.0:*    users:(("systemd-resolve",pid=962,fd=17)) uid:991 ino:6393 sk:6 cgroup:/system.slice/systemd-resolved.service <->       
+tcp   LISTEN 0      4096       127.0.0.1:5678      0.0.0.0:*    users:(("docker-proxy",pid=518514,fd=7)) ino:1530001 sk:7 cgroup:/system.slice/docker.service <->                       
+tcp   LISTEN 0      4096            [::]:443          [::]:*    users:(("docker-proxy",pid=518344,fd=7)) ino:1529687 sk:8 cgroup:/system.slice/docker.service v6only:1 <->              
+tcp   LISTEN 0      4096            [::]:80           [::]:*    users:(("docker-proxy",pid=518329,fd=7)) ino:1528647 sk:9 cgroup:/system.slice/docker.service v6only:1 <->              
+tcp   LISTEN 0      4096               *:22              *:*    users:(("sshd",pid=3312,fd=3),("systemd",pid=1,fd=142)) ino:6492 sk:a cgroup:/system.slice/ssh.socket v6only:0 <->      
+tcp   LISTEN 0      100             [::]:25           [::]:*    users:(("master",pid=1549,fd=14)) ino:9505 sk:b cgroup:/system.slice/system-postfix.slice/postfix@-.service v6only:1 <->
+tcp   LISTEN 0      4096            [::]:8080         [::]:*    users:(("docker-proxy",pid=1150903,fd=7)) ino:3702484 sk:f cgroup:/system.slice/docker.service v6only:1 <->             
+---
+    PID    PPID CMD
+1158374 1158373 ps -eo pid,ppid,cmd:100 --sort=-pcpu
+1158342       1 /usr/lib/systemd/systemd-hostnamed
+1158261    3312 sshd: root@notty
+   1260       1 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+   1187       1 /usr/bin/containerd
+ 518527  518466 node /usr/local/bin/n8n
+ 518607  518565 node /usr/local/bin/n8n worke
+ 518161  518091 redis-server *:6379
+ 518442       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 7c34c7c4de5163179180d016f3ccf57ec5c1dfcf52a8e55d9928ff25729d9908 -address /run/containerd/containerd.sock
+ 518086       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 1e667f8974915c8c9d510d25198697d24c14ce10d54f9412bda126a621e32f44 -address /run/containerd/containerd.sock
+ 518091       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 29fff25e9c71cf00c39a072daef78a0fa704f1e909f0d8f0cefc0bd5325047b4 -address /run/containerd/containerd.sock
+ 518536       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id e3f70e4637324c06969a108baba19d8e127e2df7ca2f54edc902adeefaaa199d -address /run/containerd/containerd.sock
+   1174       1 /usr/bin/python3 /usr/bin/fail2ban-server -xf start
+ 518153  518082 traefik traefik --api=true --api.insecure=true --providers.docker=true --providers.docker.exposedbydefault=false --entrypoints.web.address=:80 --entrypoints.web.http.redirections.entryPoint.to=websecure --entrypoints.web.http.redirections.entrypoint.scheme=https --entrypoints.websecure.address=:443 --certificatesresolvers.mytlschallenge.acme.tlschallenge=true --certificatesresolvers.mytlschallenge.acme.email=timur@kulbaev.ru --certificatesresolvers.mytlschallenge.acme.storage=/letsencrypt/acme.json
+1137344    3312 sshd: root@pts/1
+     54       2 [kswapd0]
+     17       2 [rcu_preempt]
+1156958       2 [kworker/0:0-events]
+   1168       1 /usr/sbin/beget-agent
+ 518163  518086 postgres
+1150840       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id 449e8c2f7c2cb15148a91fc6f1252c58f08137edc039cdcb1f5f9db8714bfd27 -address /run/containerd/containerd.sock
+ 518082       1 /usr/bin/containerd-shim-runc-v2 -namespace moby -id dc992dbd95d9671886e55e48adb3d07f5606e4607a2de4fa324030fceba21850 -address /run/containerd/containerd.sock
+1095350       2 [kworker/0:1-cgroup_bpf_destroy]
+     37       2 [kcompactd0]
+1137252       2 [kworker/1:2-cgroup_destroy]
+1153573  518163 postgres: user n8n 172.18.0.5(45462) idle
+ 518712  518163 postgres: user n8n 172.18.0.6(54102) idle
+1144593       2 [kworker/1:0-events]
+1147853       2 [kworker/u5:0-events_power_efficient]
+     16       2 [ksoftirqd/0]
+     24       2 [ksoftirqd/1]
+ 518378  518163 postgres: stats collector   
+    356       1 /sbin/multipathd -d -s
+      1       0 /sbin/init
+    297       1 /usr/lib/systemd/systemd-journald
+1156833       2 [kworker/u5:2-events_power_efficient]
+1120594       2 [kworker/u6:0-flush-253:0]
+1150864 1150840 nginx: master process nginx -g daemon off;
+1126875       2 [kworker/u5:1-events_power_efficient]
+1110497       2 [kworker/u6:2-events_power_efficient]
+ 518376  518163 postgres: walwriter   
+ 518466  518442 tini -- /docker-entrypoint.sh
+ 518565  518536 tini -- /docker-entrypoint.sh worke
+1150807       2 [kworker/u6:5-events_power_efficient]
+1137504 1137344 -bash
+   1044       1 /usr/lib/polkit-1/polkitd --no-debug
+1148606       2 [kworker/u5:4-events_power_efficient]
+ 518375  518163 postgres: background writer   
+   3312       1 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+   1052       1 /usr/sbin/NetworkManager --no-daemon
+   1048       1 /usr/libexec/udisks2/udisksd
+    222       2 [jbd2/vda1-8]
+     11       2 [kworker/u4:0-ext4-rsv-conversion]
+1145177    3312 sshd: root@pts/2
+   1078       1 /usr/sbin/rsyslogd -n -iNONE
+ 995932       1 /usr/lib/systemd/systemd --use
+ 518374  518163 postgres: checkpointer   
+ 518377  518163 postgres: autovacuum launcher   
+   1549       1 /usr/lib/postfix/sbin/master -w
+---
+  UNIT                                LOAD   ACTIVE SUB     DESCRIPTION
+  beget-agent.service                 loaded active running Beget VPS guest agent
+  containerd.service                  loaded active running containerd container runtime
+  cron.service                        loaded active running Regular background program processing daemon
+  dbus.service                        loaded active running D-Bus System Message Bus
+  docker-volume-local-persist.service loaded active running docker-volume-local-persist
+  docker.service                      loaded active running Docker Application Container Engine
+  fail2ban.service                    loaded active running Fail2Ban Service
+  getty@tty1.service                  loaded active running Getty on tty1
+  ModemManager.service                loaded active running Modem Manage
+  multipathd.service                  loaded active running Device-Mapper Multipath Device Controlle
+  networkd-dispatcher.service         loaded active running Dispatcher daemon for systemd-networkd
+  NetworkManager.service              loaded active running Network Manage
+  polkit.service                      loaded active running Authorization Manage
+  postfix@-.service                   loaded active running Postfix Mail Transport Agent (instance -)
+  rsyslog.service                     loaded active running System Logging Service
+  serial-getty@ttyS0.service          loaded active running Serial Getty on ttyS0
+  ssh.service                         loaded active running OpenBSD Secure Shell serve
+  systemd-hostnamed.service           loaded active running Hostname Service
+  systemd-journald.service            loaded active running Journal Service
+  systemd-logind.service              loaded active running User Login Management
+  systemd-networkd.service            loaded active running Network Configuration
+  systemd-resolved.service            loaded active running Network Name Resolution
+  systemd-timesyncd.service           loaded active running Network Time Synchronization
+  systemd-udevd.service               loaded active running Rule-based Manager for Device Events and Files
+  udisks2.service                     loaded active running Disk Manage
+  unattended-upgrades.service         loaded active running Unattended Upgrades Shutdown
+  user@0.service                      loaded active running User Manager for UID 0
+
+Legend: LOAD   → Reflects whether the unit definition was properly loaded.
+        ACTIVE → The high-level unit activation state, i.e. generalization of SUB.
+        SUB    → The low-level unit activation state, values depend on unit type.
+
+27 loaded units listed.
+---
+NEXT                            LEFT LAST                              PASSED UNIT                           ACTIVATES
+Mon 2025-08-25 14:00:00 UTC     5min Mon 2025-08-25 13:50:51 UTC 3min 54s ago sysstat-collect.timer          sysstat-collect.service
+Mon 2025-08-25 14:06:55 UTC    12min Mon 2025-08-25 13:33:01 UTC    21min ago fwupd-refresh.timer            fwupd-refresh.service
+Mon 2025-08-25 15:02:37 UTC  1h 7min Mon 2025-08-25 00:56:11 UTC      12h ago motd-news.timer                motd-news.service
+Mon 2025-08-25 18:17:01 UTC 4h 22min Sun 2025-08-24 18:17:01 UTC      19h ago update-notifier-download.timer update-notifier-download.service
+Mon 2025-08-25 18:27:11 UTC 4h 32min Sun 2025-08-24 18:27:11 UTC      19h ago systemd-tmpfiles-clean.timer   systemd-tmpfiles-clean.service
+Tue 2025-08-26 00:00:00 UTC      10h Mon 2025-08-25 00:00:00 UTC      13h ago dpkg-db-backup.timer           dpkg-db-backup.service
+Tue 2025-08-26 00:00:00 UTC      10h Mon 2025-08-25 00:00:00 UTC      13h ago logrotate.timer                logrotate.service
+Tue 2025-08-26 00:07:00 UTC      10h Mon 2025-08-25 00:07:01 UTC      13h ago sysstat-summary.timer          sysstat-summary.service
+Tue 2025-08-26 05:07:23 UTC      15h Mon 2025-08-25 08:29:32 UTC 5h 25min ago apt-daily.timer                apt-daily.service
+Tue 2025-08-26 05:49:57 UTC      15h Mon 2025-08-25 09:49:57 UTC  4h 4min ago man-db.timer                   man-db.service
+Tue 2025-08-26 06:29:24 UTC      16h Mon 2025-08-25 06:36:31 UTC       7h ago apt-daily-upgrade.timer        apt-daily-upgrade.service
+Tue 2025-08-26 11:53:41 UTC      21h Mon 2025-08-25 12:41:31 UTC 1h 13min ago certbot.timer                  certbot.service
+Sun 2025-08-31 03:10:31 UTC   5 days Sun 2025-08-24 18:10:49 UTC            - e2scrub_all.timer              e2scrub_all.service
+Mon 2025-09-01 01:24:07 UTC   6 days Mon 2025-08-25 01:33:41 UTC      12h ago fstrim.timer                   fstrim.service
+Mon 2025-09-01 11:57:50 UTC   6 days Sun 2025-08-24 18:10:49 UTC            - update-notifier-motd.timer     update-notifier-motd.service
+-                                  - -                                      - apport-autoreport.timer        apport-autoreport.service
+-                                  - -                                      - ua-timer.timer                 ua-timer.service
+
+17 timers listed.
+---
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values fo
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').
+# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+# 
+# m h  dom mon dow   command
+#
+0 3 * * * cd /opt/beget/n8n && docker compose pull && docker compose down && docker compose up -d
+#0 2 * * * /root/backup_n8n.sh >> /root/backup_n8n.log 2>&1
+---
+vnnfkezcbi
+---
+127.0.0.1	localhost
+
+# The following lines are desirable for IPv6 capable hosts
+::1	ip6-localhost	ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+ff02::3	ip6-allhosts
+127.0.1.1	vnnfkezcbi.local	vnnfkezcbi
+
+---
+# Your system has been configured with 'manage-resolv-conf' set to true.
+# As a result, cloud-init has written this file with configuration data
+# that it has been provided. Cloud-init, by default, will write this file
+# a single time (PER_ONCE).
+#
+nameserver 198.18.18.18
+
+
+---
+apparmor module is loaded.
+118 profiles are loaded.
+23 profiles are in enforce mode.
+   /usr/bin/man
+   docker-default
+   lsb_release
+   man_filte
+   man_groff
+   nvidia_modprobe
+   nvidia_modprobe//kmod
+   plasmashell
+   plasmashell//QtWebEngineProcess
+   rsyslogd
+   tcpdump
+   ubuntu_pro_apt_news
+   ubuntu_pro_esm_cache
+   ubuntu_pro_esm_cache//apt_methods
+   ubuntu_pro_esm_cache//apt_methods_gpgv
+   ubuntu_pro_esm_cache//cloud_id
+   ubuntu_pro_esm_cache//dpkg
+   ubuntu_pro_esm_cache//ps
+   ubuntu_pro_esm_cache//ubuntu_distro_info
+   ubuntu_pro_esm_cache_systemctl
+   ubuntu_pro_esm_cache_systemd_detect_virt
+   unix-chkpwd
+   unprivileged_userns
+4 profiles are in complain mode.
+   transmission-cli
+   transmission-daemon
+   transmission-gtk
+   transmission-qt
+0 profiles are in prompt mode.
+0 profiles are in kill mode.
+91 profiles are in unconfined mode.
+   1password
+   Discord
+   MongoDB Compass
+   QtWebEngineProcess
+   balena-etche
+   brave
+   buildah
+   busybox
+   cam
+   ch-checkns
+   ch-run
+   chrome
+   crun
+   devhelp
+   element-desktop
+   epiphany
+   evolution
+   firefox
+   flatpak
+   foliate
+   geary
+   github-desktop
+   goldendict
+   ipa_verify
+   kchmviewe
+   keybase
+   lc-compliance
+   libcamerify
+   linux-sandbox
+   loupe
+   lxc-attach
+   lxc-create
+   lxc-destroy
+   lxc-execute
+   lxc-stop
+   lxc-unshare
+   lxc-usernsexec
+   mmdebstrap
+   msedge
+   nautilus
+   notepadqq
+   obsidian
+   opam
+   opera
+   pageedit
+   podman
+   polypane
+   privacybrowse
+   qcam
+   qmapshack
+   qutebrowse
+   rootlesskit
+   rpm
+   rssguard
+   runc
+   sbuild
+   sbuild-abort
+   sbuild-adduse
+   sbuild-apt
+   sbuild-checkpackages
+   sbuild-clean
+   sbuild-createchroot
+   sbuild-destroychroot
+   sbuild-distupgrade
+   sbuild-hold
+   sbuild-shell
+   sbuild-unhold
+   sbuild-update
+   sbuild-upgrade
+   scide
+   signal-desktop
+   slack
+   slirp4netns
+   steam
+   stress-ng
+   surfshark
+   systemd-coredump
+   thunderbird
+   toybox
+   trinity
+   tup
+   tuxedo-control-cente
+   userbindmount
+   uwsgi-core
+   vdens
+   virtiofsd
+   vivaldi-bin
+   vpnns
+   vscode
+   wike
+   wpcom
+19 processes have profiles defined.
+19 processes are in enforce mode.
+   /usr/local/bin/traefik (518153) docker-default
+   /usr/local/bin/redis-server (518161) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518163) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518374) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518375) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518376) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518377) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518378) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518379) docker-default
+   /sbin/tini (518466) docker-default
+   /usr/local/bin/node (518527) docker-default
+   /sbin/tini (518565) docker-default
+   /usr/local/bin/node (518607) docker-default
+   /usr/lib/postgresql/11/bin/postgres (518712) docker-default
+   /usr/sbin/nginx (1150864) docker-default
+   /usr/sbin/nginx (1150945) docker-default
+   /usr/sbin/nginx (1150946) docker-default
+   /usr/lib/postgresql/11/bin/postgres (1153573) docker-default
+   /usr/sbin/rsyslogd (1078) rsyslogd
+0 processes are in complain mode.
+0 processes are in prompt mode.
+0 processes are in kill mode.
+0 processes are unconfined but have a profile defined.
+0 processes are in mixed mode.
+---
+Client: Docker Engine - Community
+ Version:    28.3.1
+ Context:    default
+ Debug Mode: false
+ Plugins:
+  buildx: Docker Buildx (Docker Inc.)
+    Version:  v0.25.0
+    Path:     /usr/libexec/docker/cli-plugins/docker-buildx
+  compose: Docker Compose (Docker Inc.)
+    Version:  v2.38.1
+    Path:     /usr/libexec/docker/cli-plugins/docker-compose
+
+Server:
+ Containers: 7
+  Running: 6
+  Paused: 0
+  Stopped: 1
+ Images: 11
+ Server Version: 28.3.1
+ Storage Driver: overlay2
+  Backing Filesystem: extfs
+  Supports d_type: true
+  Using metacopy: false
+  Native Overlay Diff: true
+  userxattr: false
+ Logging Driver: json-file
+ Cgroup Driver: systemd
+ Cgroup Version: 2
+ Plugins:
+  Volume: local local-persist
+  Network: bridge host ipvlan macvlan null overlay
+  Log: awslogs fluentd gcplogs gelf journald json-file local splunk syslog
+ CDI spec directories:
+  /etc/cdi
+  /var/run/cdi
+ Swarm: inactive
+ Runtimes: io.containerd.runc.v2 runc
+ Default Runtime: runc
+ Init Binary: docker-init
+ containerd version: 05044ec0a9a75232cad458027ca83437aae3f4da
+ runc version: v1.2.5-0-g59923ef
+ init version: de40ad0
+ Security Options:
+  apparmo
+  seccomp
+   Profile: builtin
+  cgroupns
+ Kernel Version: 6.8.0-71-generic
+ Operating System: Ubuntu 24.04.2 LTS
+ OSType: linux
+ Architecture: x86_64
+ CPUs: 2
+ Total Memory: 1.922GiB
+ Name: vnnfkezcbi
+ ID: 917e32cb-ce46-46cb-92ce-9f1cfceb27f2
+ Docker Root Dir: /var/lib/docke
+ Debug Mode: false
+ Experimental: false
+ Insecure Registries:
+  ::1/128
+  127.0.0.0/8
+ Live Restore Enabled: false
+
+---
+449e8c2f7c2c nginx:alpine Up 7 minutes canva-panel
+e3f70e463732 docker.n8n.io/n8nio/n8n:latest Up 11 hours (healthy) n8n-n8n-worker-1
+7c34c7c4de51 docker.n8n.io/n8nio/n8n:latest Up 11 hours (healthy) n8n-n8n-1
+1e667f897491 postgres:11 Up 11 hours (healthy) n8n-postgres-1
+29fff25e9c71 redis:6-alpine Up 11 hours (healthy) n8n-redis-1
+dc992dbd95d9 traefik:2.10.4 Up 11 hours n8n-traefik-1
+21eaf066545d n8nio/n8n:latest Created n8n
+---
+NAME                STATUS              CONFIG FILES
+n8n                 running(5)          /opt/beget/n8n/docker-compose.yml
+---
+nginx version: nginx/1.24.0 (Ubuntu)
+---
+# configuration file /etc/nginx/nginx.conf:
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+error_log /var/log/nginx/error.log;
+include /etc/nginx/modules-enabled/*.conf;
+
+events {
+	worker_connections 768;
+	# multi_accept on;
+}
+
+http {
+
+	##
+	# Basic Settings
+	##
+
+	sendfile on;
+	tcp_nopush on;
+	types_hash_max_size 2048;
+	# server_tokens off;
+
+	# server_names_hash_bucket_size 64;
+	# server_name_in_redirect off;
+
+	include /etc/nginx/mime.types;
+	default_type application/octet-stream;
+
+	##
+	# SSL Settings
+	##
+
+	ssl_protocols TLSv1 TLSv1.1 TLSv1.2 TLSv1.3; # Dropping SSLv3, ref: POODLE
+	ssl_prefer_server_ciphers on;
+
+	##
+	# Logging Settings
+	##
+
+	access_log /var/log/nginx/access.log;
+
+	##
+	# Gzip Settings
+	##
+
+	gzip on;
+
+	# gzip_vary on;
+	# gzip_proxied any;
+	# gzip_comp_level 6;
+	# gzip_buffers 16 8k;
+	# gzip_http_version 1.1;
+	# gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+	##
+	# Virtual Host Configs
+	##
+
+	include /etc/nginx/conf.d/*.conf;
+	include /etc/nginx/sites-enabled/*;
+}
+
+
+#mail {
+#	# See sample authentication script at:
+#	# http://wiki.nginx.org/ImapAuthenticateWithApachePhpScript
+#
+#	# auth_http localhost/auth.php;
+#	# pop3_capabilities "TOP" "USER";
+#	# imap_capabilities "IMAP4rev1" "UIDPLUS";
+#
+#	server {
+#		listen     localhost:110;
+#		protocol   pop3;
+#		proxy      on;
+#	}
+#
+#	server {
+#		listen     localhost:143;
+#		protocol   imap;
+#		proxy      on;
+#	}
+#}
+
+# configuration file /etc/nginx/mime.types:
+
+types {
+    text/html                                        html htm shtml;
+    text/css                                         css;
+    text/xml                                         xml;
+    image/gif                                        gif;
+    image/jpeg                                       jpeg jpg;
+    application/javascript                           js;
+    application/atom+xml                             atom;
+    application/rss+xml                              rss;
+
+    text/mathml                                      mml;
+    text/plain                                       txt;
+    text/vnd.sun.j2me.app-descriptor                 jad;
+    text/vnd.wap.wml                                 wml;
+    text/x-component                                 htc;
+
+    image/avif                                       avif;
+    image/png                                        png;
+    image/svg+xml                                    svg svgz;
+    image/tiff                                       tif tiff;
+    image/vnd.wap.wbmp                               wbmp;
+    image/webp                                       webp;
+    image/x-icon                                     ico;
+    image/x-jng                                      jng;
+    image/x-ms-bmp                                   bmp;
+
+    font/woff                                        woff;
+    font/woff2                                       woff2;
+
+    application/java-archive                         jar war ear;
+    application/json                                 json;
+    application/mac-binhex40                         hqx;
+    application/msword                               doc;
+---
+Status: inactive
+---
+-P INPUT ACCEPT
+-P FORWARD DROP
+-P OUTPUT ACCEPT
+-N DOCKER
+-N DOCKER-BRIDGE
+-N DOCKER-CT
+-N DOCKER-FORWARD
+-N DOCKER-ISOLATION-STAGE-1
+-N DOCKER-ISOLATION-STAGE-2
+-N DOCKER-USER
+-A INPUT -p tcp -m multiport --dports 22 -m set --match-set f2b-sshd src -j REJECT --reject-with icmp-port-unreachable
+-A FORWARD -j DOCKER-USER
+-A FORWARD -j DOCKER-FORWARD
+-A DOCKER -d 172.17.0.2/32 ! -i docker0 -o docker0 -p tcp -m tcp --dport 80 -j ACCEPT
+-A DOCKER -d 172.18.0.5/32 ! -i br-d6be86f32472 -o br-d6be86f32472 -p tcp -m tcp --dport 5678 -j ACCEPT
+-A DOCKER -d 172.18.0.4/32 ! -i br-d6be86f32472 -o br-d6be86f32472 -p tcp -m tcp --dport 443 -j ACCEPT
+-A DOCKER -d 172.18.0.4/32 ! -i br-d6be86f32472 -o br-d6be86f32472 -p tcp -m tcp --dport 80 -j ACCEPT
+-A DOCKER -d 172.18.0.3/32 ! -i br-d6be86f32472 -o br-d6be86f32472 -p tcp -m tcp --dport 5432 -j ACCEPT
+-A DOCKER ! -i docker0 -o docker0 -j DROP
+-A DOCKER ! -i br-d6be86f32472 -o br-d6be86f32472 -j DROP
+-A DOCKER-BRIDGE -o docker0 -j DOCKER
+-A DOCKER-BRIDGE -o br-d6be86f32472 -j DOCKER
+-A DOCKER-CT -o docker0 -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+-A DOCKER-CT -o br-d6be86f32472 -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
+-A DOCKER-FORWARD -j DOCKER-CT
+-A DOCKER-FORWARD -j DOCKER-ISOLATION-STAGE-1
+-A DOCKER-FORWARD -j DOCKER-BRIDGE
+-A DOCKER-FORWARD -i docker0 -j ACCEPT
+-A DOCKER-FORWARD -i br-d6be86f32472 -j ACCEPT
+-A DOCKER-ISOLATION-STAGE-1 -i docker0 ! -o docker0 -j DOCKER-ISOLATION-STAGE-2
+-A DOCKER-ISOLATION-STAGE-1 -i br-d6be86f32472 ! -o br-d6be86f32472 -j DOCKER-ISOLATION-STAGE-2
+-A DOCKER-ISOLATION-STAGE-2 -o br-d6be86f32472 -j DROP
+-A DOCKER-ISOLATION-STAGE-2 -o docker0 -j DROP
+---
+net.ipv4.ip_forward = 1
+net.ipv4.ip_forward_update_priority = 1
+net.ipv4.ip_forward_use_pmtu = 0
+net.ipv4.tcp_congestion_control = cubic
+vm.overcommit_memory = 1
+vm.swappiness = 60

@@ -1,0 +1,134 @@
+os: Ubuntu 24.04.2 LTS
+hostname: vnnfkezcbi
+provider: KVM/QEMU VM
+hardware:
+  cpu_cores: 2
+  memory_gib: 1.922
+  swap: 0
+storage:
+  root_disk: /dev/vda1 (ext4, 29G, 41% used)
+  boot: /dev/vda16 (ext4, 913M)
+  efi: /dev/vda15 (vfat, 106M)
+network:
+  public_ipv4: 45.130.214.222/32
+  interfaces:
+    - name: eth0
+      address: 45.130.214.222/32
+    - name: docker0
+      address: 172.17.0.1/16
+    - name: br-d6be86f32472
+      address: 172.18.0.1/16
+  dns:
+    nameserver: 198.18.18.18
+security:
+  selinux: disabled
+  apparmor: enforce (docker-default profiles)
+  ufw: inactive
+  iptables_summary:
+    ssh_protected_by_fail2ban: true
+    docker_chains_present: true
+services:
+  - name: docker
+    state: running
+  - name: containerd
+    state: running
+  - name: nginx
+    state: running
+  - name: fail2ban
+    state: running
+  - name: postfix
+    state: running
+  - name: ssh
+    state: running
+  - name: NetworkManager
+    state: running
+  - name: unattended-upgrades
+    state: running
+listening_ports:
+  - 22/tcp (sshd)
+  - 80/tcp (docker-proxy -> traefik/nginx)
+  - 443/tcp (docker-proxy -> traefik)
+  - 8080/tcp (docker-proxy)
+  - 25/tcp (postfix)
+  - 53/tcp,udp (systemd-resolved)
+  - 5432/tcp (docker-proxy -> postgres)
+  - 5678/tcp (docker-proxy -> n8n)
+runtimes:
+  python3: 3.12.3
+  node: in-containers (host: not installed)
+  java: not installed
+  postgres: in-container (host: not installed)
+  redis: in-container (host: not installed)
+containers:
+  engine: Docker 28.3.1
+  compose_project: n8n (path: /opt/beget/n8n/docker-compose.yml)
+  networks:
+    - bridge docker0 172.17.0.0/16
+    - bridge br-d6be86f32472 172.18.0.0/16
+  list:
+    - name: n8n-n8n-1
+      image: docker.n8n.io/n8nio/n8n:latest
+      status: running (healthy)
+      ports:
+        - 5678/tcp internal
+    - name: n8n-n8n-worker-1
+      image: docker.n8n.io/n8nio/n8n:latest
+      status: running (healthy)
+    - name: n8n-postgres-1
+      image: postgres:11
+      status: running (healthy)
+      ports:
+        - 5432/tcp internal
+    - name: n8n-redis-1
+      image: redis:6-alpine
+      status: running (healthy)
+    - name: n8n-traefik-1
+      image: traefik:2.10.4
+      status: running
+      ports:
+        - 80->80/tcp
+        - 443->443/tcp
+        - 8080->8080/tcp (dashboard, insecure)
+      acme:
+        email: timur@kulbaev.ru
+        storage: /letsencrypt/acme.json
+    - name: canva-panel
+      image: nginx:alpine
+      status: running
+    - name: n8n (legacy)
+      image: n8nio/n8n:latest
+      status: created
+reverse_proxy:
+  nginx_host:
+    version: 1.24.0 (Ubuntu)
+    includes:
+      - /etc/nginx/nginx.conf
+      - /etc/nginx/sites-enabled/*
+    notes: host nginx present; traefik handles public 80/443 via docker
+  traefik_container:
+    entrypoints: [web(:80), websecure(:443)]
+    dashboard: :8080 (insecure=true)
+    providers: docker (exposedByDefault=false)
+    redirects: http->https enabled
+    acme_tls: enabled (email timur@kulbaev.ru)
+dns_resolution:
+  hosts:
+    - 127.0.1.1 vnnfkezcbi.local vnnfkezcbi
+cron:
+  root:
+    - "0 3 * * * cd /opt/beget/n8n && docker compose pull && docker compose down && docker compose up -d"
+  commented_examples_present: true
+timers_highlight:
+  - certbot.timer
+  - fwupd-refresh.timer
+  - apt-daily.timer
+  - logrotate.timer
+  - fstrim.timer
+app_context:
+  n8n:
+    base_url: unknown (behind traefik)
+    compose_path: /opt/beget/n8n/docker-compose.yml
+    db: postgres@docker (port 5432 internal)
+    cache: redis@docker
+files:
+  raw_inventory: RAW_FILE
