@@ -1,0 +1,100 @@
+/* Component: UI details */
+
+/* UI details */
+.u-i-details-755f8f46e4b2 {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  padding-block-start: 30px;
+  padding-block-end: 30px;
+  z-index: 0;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  min-height: 94.1px;
+  min-block-size: 94.1px;
+}
+
+/* Branding / logo */
+.branding-755f9437dcbb {
+  position: relative;
+  width: 40px;
+  height: 34.1px;
+  flex-shrink: 0;
+}
+
+/* logo */
+.logo-755f9437dcbc {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 34.1px;
+}
+
+/* split triangle */
+.split-tria-755f9437dcbd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.split-tria-755f9437dcbd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 28.85px;
+  height: 34.1px;
+}
+
+/* triangle */
+.triangle-755f9437dcc0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.triangle-755f9437dcc0 {
+  position: absolute;
+  left: 21.64px;
+  top: 18.36px;
+  width: 18.36px;
+  height: 15.74px;
+  opacity: 0.6;
+}
+
+/* triangle */
+.triangle-755f9437dcbe > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.triangle-755f9437dcbe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 40px;
+  height: 34.1px;
+}
+
+/* triangle */
+.triangle-755f9437dcbf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.triangle-755f9437dcbf {
+  position: absolute;
+  left: 16.72px;
+  top: 14.75px;
+  width: 23.28px;
+  height: 19.34px;
+}

@@ -1,0 +1,5008 @@
+/* Component: Cards / content / Leaderboard */
+
+/* Cards / content / Leaderboard */
+.cards-co-88d4eab92db8 {
+  position: relative;
+  width: 100%;
+  background: #ffffffFF;
+  border-start-start-radius: 30px;
+  border-start-end-radius: 30px;
+  border-end-start-radius: 30px;
+  border-end-end-radius: 30px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  padding-inline-start: 20px;
+  padding-inline-end: 15px;
+  padding-block-start: 15px;
+  padding-block-end: 20px;
+  z-index: 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+}
+
+/* content */
+.content-88d4eab92db9 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-around;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* header */
+.header-88d4eab92dba {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+  column-gap: 20px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* leaderboard card */
+.leaderboar-863842ab0c6c {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* leaderboard card */
+.leaderboar-863c2ad7d92f {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* leaderboard card */
+.leaderboar-863c2bb9565f {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* leaderboard card */
+.leaderboar-863c2c4fee46 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* leaderboard card */
+.leaderboar-863c2d4f38e0 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* leaderboard card */
+.leaderboar-863c2938f640 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 20px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* info */
+.info-863842ab0c6d {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 5 */
+.avatar-5-863c67f7d965 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-5-863c67f7d965 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 31% */
+.graph-elem-89e1e9063cb8 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* data */
+.data-863842ab0c74 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Shayla Lawrence */
+.shayla-law-863842ab0c77 {
+  width: 260px;
+  flex-shrink: 0;
+}
+.shayla-law-863842ab0c77 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.shayla-law-863842ab0c77 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.shayla-law-863842ab0c77 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.shayla-law-863842ab0c77 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* remaining */
+.remaining-89e1e9063cb9 {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cba {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cbb {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cbc {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cbd {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cbe {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* 10% */
+.c-10-89e1e9063cbf {
+  position: relative;
+  width: 26px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* progress */
+.progress-89e1e9063cca {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1e9063ccb {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1e9063ccc {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc0 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc1 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc2 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc3 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc4 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc5 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc6 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc7 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1e9063cc8 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1e9063cc9 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* 31% */
+.c-31-863842ab0c75 {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-31-863842ab0c75 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-31-863842ab0c75 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-31-863842ab0c75 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-31-863842ab0c75 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €6,200 */
+.c-6200-863842ab0c76 {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-6200-863842ab0c76 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-6200-863842ab0c76 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-6200-863842ab0c76 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-6200-863842ab0c76 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c67f7d966 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #c6f6d5FF;
+}
+
+/* Mask */
+.mask-863c67f7d967 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c67f7d967 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar background */
+.avatar-bac-863c67f7d968 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #a7ffc4FF;
+}
+
+/* Group */
+.group-863c67f7d969 {
+  position: absolute;
+  left: 6.86px;
+  top: 6.6px;
+  width: 60.14px;
+  height: 78.3px;
+}
+
+/* Body/Skin */
+.body-skin-863c67f7d96a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c67f7d96a {
+  position: absolute;
+  left: 0.73px;
+  top: 5.1px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Face */
+.face-863c67f83bb6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-863c67f83bb6 {
+  position: absolute;
+  left: 17.29px;
+  top: 20.42px;
+  width: 26.4px;
+  height: 21.6px;
+}
+
+/* 👔-Clothes */
+.clothes-863c67f83bc1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-863c67f83bc1 {
+  position: absolute;
+  left: 0px;
+  top: 51.6px;
+  width: 60.14px;
+  height: 26.59px;
+}
+
+/* Hair */
+.hair-863c67f858ca > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-0.3000000000004093px);
+}
+.hair-863c67f858ca {
+  position: absolute;
+  left: 7.5px;
+  top: 0px;
+  width: 44.4px;
+  height: 77.31px;
+}
+
+/* 🎨 Collar + mask */
+.collar-863c67f858cf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-863c67f858cf {
+  position: absolute;
+  left: 19.96px;
+  top: 51.6px;
+  width: 20.03px;
+  height: 11.1px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c67f7d96b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c67f7d96b {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c67f83bb5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c67f83bb5 {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-863c67f83bb7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.outline-de-863c67f83bb7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 26.4px;
+  height: 3.58px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c67f83bba > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c67f83bba {
+  position: absolute;
+  left: 3.45px;
+  top: 5.52px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c67f83bbd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c67f83bbd {
+  position: absolute;
+  left: 9.23px;
+  top: 12.58px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Mouth / Mouth - Serious */
+.mouth-mo-8f587772cce9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-mo-8f587772cce9 {
+  position: absolute;
+  left: 9.3px;
+  top: 19.8px;
+  width: 7.2px;
+  height: 1.8px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-863c67f83bb8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-863c67f83bb8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-863c67f83bb9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-863c67f83bb9 {
+  position: absolute;
+  left: 17.4px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eye */
+.eye-863c67f83bbb > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c67f83bbb {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c67f83bbc > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c67f83bbc {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c67f83bbe > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c67f83bbe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Why-so-serious */
+.whysoser-8f587772ccea > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.whysoser-8f587772ccea {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.2px;
+  height: 1.8px;
+}
+
+/* Clothing / Collar + Sweater-2 */
+.clothing-863c67f83bc2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-863c67f83bc2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.14px;
+  height: 26.59px;
+}
+
+/* Group */
+.group-863c67f83bc3 {
+  position: absolute;
+  left: 0px;
+  top: 2.15px;
+  width: 60.14px;
+  height: 24.43px;
+}
+
+/* 🎨 Sweater Colour */
+.sweater-863c67f83bc4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.sweater-863c67f83bc4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.14px;
+  height: 24.43px;
+}
+
+/* Straight-1 */
+.straight1-863c67f858cb > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-0.3000000000004093px);
+}
+.straight1-863c67f858cb {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 44.4px;
+  height: 77.31px;
+}
+
+/* Group */
+.group-863c67f858cc {
+  position: absolute;
+  left: 0.9px;
+  top: -0.3px;
+  width: 43.2px;
+  height: 77.31px;
+}
+
+/* 🎨 Hair-2 */
+.hair2-863c67f858cd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair2-863c67f858cd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 43.2px;
+  height: 77.31px;
+}
+
+/* Shadow-2 */
+.shadow2-863c67f858ce > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow2-863c67f858ce {
+  position: absolute;
+  left: 7.01px;
+  top: 23.98px;
+  width: 36.19px;
+  height: 30.81px;
+}
+
+/* Collar */
+.collar-863c67f858d0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-863c67f858d0 {
+  position: absolute;
+  left: 0px;
+  top: -2.14px;
+  width: 20.03px;
+  height: 13.24px;
+}
+
+/* neck cutout mask */
+.neck-cutou-863c67f858d1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-cutou-863c67f858d1 {
+  position: absolute;
+  left: 3.05px;
+  top: -3.3px;
+  width: 14.07px;
+  height: 10.56px;
+}
+
+/* info */
+.info-863c2ad7d930 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 2 */
+.avatar-2-863c6047bdb2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-2-863c6047bdb2 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 62% */
+.graph-elem-89e1abc6bc06 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* data */
+.data-863c2ad7d933 {
+  position: relative;
+  width: 260px;
+  height: 16px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* Christopher Santos */
+.christophe-863c2ad7d934 {
+  width: 260px;
+  flex-shrink: 0;
+}
+.christophe-863c2ad7d934 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.christophe-863c2ad7d934 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.christophe-863c2ad7d934 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.christophe-863c2ad7d934 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* remaining */
+.remaining-89e1abc6bc07 {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc08 {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc09 {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* 10% */
+.c-10-89e1abc6bc0a {
+  position: relative;
+  width: 26px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* progress */
+.progress-89e1abc6bc15 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc16 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc17 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc18 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc19 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc1a {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc0b {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc0c {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc0d {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc0e {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc0f {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc10 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc11 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e1abc6bc12 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc13 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e1abc6bc14 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* 62% */
+.c-62-863c2ad7d93a {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-62-863c2ad7d93a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-62-863c2ad7d93a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-62-863c2ad7d93a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-62-863c2ad7d93a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €12,400 */
+.c-12400-863c2ad7d93b {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-12400-863c2ad7d93b .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-12400-863c2ad7d93b .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-12400-863c2ad7d93b .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-12400-863c2ad7d93b .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c6047bdb3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #FED7D7FF;
+}
+
+/* Mask */
+.mask-863c6047bdb4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c6047bdb4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar background */
+.avatar-bac-863c6047bdb5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-863c6047bdb6 {
+  position: absolute;
+  left: 7.2px;
+  top: 8.4px;
+  width: 60.3px;
+  height: 78.3px;
+}
+
+/* Body/Skin */
+.body-skin-863c6047bdb7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c6047bdb7 {
+  position: absolute;
+  left: 0.77px;
+  top: 4.8px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* 👔-Clothes */
+.clothes-863c6047fc28 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-6.899999999999864px);
+}
+.clothes-863c6047fc28 {
+  position: absolute;
+  left: 0px;
+  top: 53.4px;
+  width: 60.3px;
+  height: 24.9px;
+}
+
+/* Face */
+.face-863c604815a9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-1.1368683772161603e-13px);
+}
+.face-863c604815a9 {
+  position: absolute;
+  left: 17.19px;
+  top: 20.84px;
+  width: 26.4px;
+  height: 21.76px;
+}
+
+/* Hair */
+.hair-863c604815b4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-863c604815b4 {
+  position: absolute;
+  left: 12px;
+  top: 0px;
+  width: 36.3px;
+  height: 27.3px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c6047bdb8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c6047bdb8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c6047fc27 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c6047fc27 {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* Clothing / Blazer + Shirt-2 */
+.clothing-863c6047fc29 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-6.899999999999864px);
+}
+.clothing-863c6047fc29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.3px;
+  height: 24.9px;
+}
+
+/* Shirt */
+.shirt-863c6047fc2a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-7.199999999999932px);
+}
+.shirt-863c6047fc2a {
+  position: absolute;
+  left: 0px;
+  top: 0.3px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* Blazer */
+.blazer-863c6047fc2f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.blazer-863c6047fc2f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.3px;
+  height: 24.9px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-863c6047fc2b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-863c6047fc2b {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* Collar */
+.collar-863c6047fc2c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-863c6047fc2c {
+  position: absolute;
+  left: 18.3px;
+  top: 0px;
+  width: 24px;
+  height: 9px;
+}
+
+/* mask */
+.mask-863c6047fc2d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c6047fc2d {
+  position: absolute;
+  left: -18.3px;
+  top: 0px;
+  width: 60.6px;
+  height: 24.6px;
+}
+
+/* collar shade */
+.collar-sha-863c6047fc2e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-sha-863c6047fc2e {
+  position: absolute;
+  left: 0px;
+  top: -7.2px;
+  width: 24px;
+  height: 16.2px;
+}
+
+/* 🎨 Saco */
+.saco-863c6047fc30 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.saco-863c6047fc30 {
+  position: absolute;
+  left: 0px;
+  top: 0.3px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* 🎨 Pocket-hanky */
+.pocket-863c604815a6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.pocket-863c604815a6 {
+  position: absolute;
+  left: 45px;
+  top: 15.3px;
+  width: 6.3px;
+  height: 2.4px;
+}
+
+/* 🎨 Wing */
+.wing-863c604815a7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.wing-863c604815a7 {
+  position: absolute;
+  left: 13.2px;
+  top: 0px;
+  width: 9px;
+  height: 24.9px;
+}
+
+/* 🎨 Wing-1 */
+.wing1-863c604815a8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.wing1-863c604815a8 {
+  position: absolute;
+  left: 38.1px;
+  top: 0px;
+  width: 9px;
+  height: 24.9px;
+}
+
+/* Mouth - Default */
+.mouth-de-863c604815aa > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-863c604815aa {
+  position: absolute;
+  left: 9px;
+  top: 17.56px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c604815ac > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c604815ac {
+  position: absolute;
+  left: 3.6px;
+  top: 4.8px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c604815af > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c604815af {
+  position: absolute;
+  left: 9.38px;
+  top: 11.86px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Eyebrow / Outline / Sad-Concerned Eyebrows */
+.eyebrow-863c604815b1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow-863c604815b1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 26.4px;
+  height: 5.1px;
+}
+
+/* Mouth */
+.mouth-863c604815ab > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-863c604815ab {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Eye */
+.eye-863c604815ad > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c604815ad {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c604815ae > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c604815ae {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c604815b0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c604815b0 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Eyebrow-15 */
+.eyebrow15-863c604815b2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow15-863c604815b2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 5.1px;
+}
+
+/* Eyebrow-16 */
+.eyebrow16-863c604815b3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow16-863c604815b3 {
+  position: absolute;
+  left: 17.4px;
+  top: 0px;
+  width: 9px;
+  height: 5.1px;
+}
+
+/* Top / Short Hair / Short-Curly */
+.top-shor-8f5877c53182 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-8f5877c53182 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 36.3px;
+  height: 27.3px;
+}
+
+/* 🎨 Short-Hair-1 */
+.short-h-8f5877c53183 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.short-h-8f5877c53183 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 36.3px;
+  height: 27.3px;
+}
+
+/* info */
+.info-863c2bb95660 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 3 */
+.avatar-3-863c5262d64f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-3-863c5262d64f {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 75% */
+.graph-elem-89dfb22c8187 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-start-radius: 5px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  border-end-end-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 50px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* data */
+.data-863c2bb95663 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* David Hudson */
+.david-huds-863c2bb95664 {
+  width: 260px;
+  flex-shrink: 0;
+}
+.david-huds-863c2bb95664 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.david-huds-863c2bb95664 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.david-huds-863c2bb95664 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.david-huds-863c2bb95664 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* progress level 25% */
+.progress-l-89dfb22c8188 {
+  position: absolute;
+  left: 0px;
+  top: 30px;
+  width: 300px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 50% */
+.progress-l-89dfb22c818d {
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  width: 300px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 75% */
+.progress-l-89dfb22c8190 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 100% */
+.progress-l-89dfb22c8195 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 300px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* remaining */
+.remaining-89dfb22c8189 {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89dfb22c818a {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89dfb22c818b {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c818c {
+  width: 75px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89dfb22c818e {
+  width: 150px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c818f {
+  width: 150px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89dfb22c8191 {
+  width: 65px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c8192 {
+  width: 65px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c8193 {
+  width: 65px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c8194 {
+  width: 65px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89dfb22c8196 {
+  width: 300px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* 75% */
+.c-75-863c2bb9566a {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-75-863c2bb9566a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-75-863c2bb9566a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-75-863c2bb9566a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-75-863c2bb9566a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €15,000 */
+.c-15000-863c2bb9566b {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-15000-863c2bb9566b .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-15000-863c2bb9566b .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-15000-863c2bb9566b .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-15000-863c2bb9566b .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c5262d650 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #bee3f8FF;
+}
+
+/* Mask */
+.mask-863c5262d651 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c5262d651 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar shape */
+.avatar-sha-863c5262d652 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #B1B2B5FF;
+}
+
+/* Group */
+.group-863c5262d653 {
+  position: absolute;
+  left: 7.59px;
+  top: 9px;
+  width: 60.04px;
+  height: 78.6px;
+}
+
+/* Body/Skin */
+.body-skin-863c5262d654 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c5262d654 {
+  position: absolute;
+  left: 0px;
+  top: 5.1px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* 👔-Clothes */
+.clothes-863c52632887 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-863c52632887 {
+  position: absolute;
+  left: 0px;
+  top: 54px;
+  width: 58.92px;
+  height: 24.6px;
+}
+
+/* Face */
+.face-863c52634cc0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-863c52634cc0 {
+  position: absolute;
+  left: 16.84px;
+  top: 20.7px;
+  width: 26.41px;
+  height: 22.2px;
+}
+
+/* Facial Hair / Light Beard */
+.facial-hai-8f587729f192 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.facial-hai-8f587729f192 {
+  position: absolute;
+  left: 12.34px;
+  top: 24.3px;
+  width: 34.2px;
+  height: 26.7px;
+}
+
+/* Hair */
+.hair-863c52634ccd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-863c52634ccd {
+  position: absolute;
+  left: 11.74px;
+  top: 0px;
+  width: 35.12px;
+  height: 24.38px;
+}
+
+/* Clothing / Crew Neck-1 */
+.clothing-8f58772a20ee > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-7.23537018604884px);
+}
+.clothing-8f58772a20ee {
+  position: absolute;
+  left: 0.04px;
+  top: 54px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c5262d655 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c5262d655 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c52632886 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c52632886 {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* V-Neck Shirt-4 */
+.v-neck-shi-863c52632888 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.v-neck-shi-863c52632888 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.92px;
+  height: 24.6px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-863c52632889 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-863c52632889 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.92px;
+  height: 24.6px;
+}
+
+/* Mouth - Default */
+.mouth-de-863c52634cc1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-863c52634cc1 {
+  position: absolute;
+  left: 8.57px;
+  top: 18px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c52634cc3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c52634cc3 {
+  position: absolute;
+  left: 3.17px;
+  top: 5.24px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c52634cc6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c52634cc6 {
+  position: absolute;
+  left: 8.96px;
+  top: 12.3px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Eyebrow / Outline / Up-Down Eyebrows */
+.eyebrow-8f5877299fff > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-7.342316621361533e-8px);
+}
+.eyebrow-8f5877299fff {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 26.41px;
+  height: 5.83px;
+}
+
+/* Mouth */
+.mouth-863c52634cc2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-863c52634cc2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Eye */
+.eye-863c52634cc4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c52634cc4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c52634cc5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c52634cc5 {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c52634cc7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c52634cc7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Eyebrow-17 */
+.eyebrow17-8f587729a000 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow17-8f587729a000 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 3.73px;
+}
+
+/* Eyebrow-18 */
+.eyebrow18-8f587729a001 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow18-8f587729a001 {
+  position: absolute;
+  left: 17.41px;
+  top: 2.25px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Lite-Beard */
+.lite-beard-8f587729f193 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.lite-beard-8f587729f193 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.2px;
+  height: 26.7px;
+}
+
+/* Top / Short Hair / Drop-Fade-Fro */
+.top-shor-863c52634cce > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-863c52634cce {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 35.12px;
+  height: 24.38px;
+}
+
+/* 🎨 Drop-Fade-Fro */
+.drop-fa-863c52634ccf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.drop-fa-863c52634ccf {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.82px;
+  height: 24.38px;
+}
+
+/* 🎨 Shirt Colour-21 */
+.shirt-c-8f58772a20ef > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-8f58772a20ef {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* Collar-15 */
+.collar15-8f58772a20f0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar15-8f58772a20f0 {
+  position: absolute;
+  left: 18.26px;
+  top: 0px;
+  width: 23.78px;
+  height: 8.91px;
+}
+
+/* collar mask-11 */
+.collar-mas-8f58772a20f1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-mas-8f58772a20f1 {
+  position: absolute;
+  left: -18.26px;
+  top: 0px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* collar shade-11 */
+.collar-sha-8f58772a20f2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-sha-8f58772a20f2 {
+  position: absolute;
+  left: 0px;
+  top: -7.24px;
+  width: 23.78px;
+  height: 16.15px;
+}
+
+/* info */
+.info-863c2c4fee47 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 4 */
+.avatar-4-863c45ffcdb5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-4-863c45ffcdb5 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 87% */
+.graph-elem-89e2503fabfd {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* data */
+.data-863c2c4fee4a {
+  position: relative;
+  width: 260px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Gloria Graham */
+.gloria-gra-863c2c4fee4b {
+  width: 260px;
+  flex-shrink: 0;
+}
+.gloria-gra-863c2c4fee4b .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.gloria-gra-863c2c4fee4b .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.gloria-gra-863c2c4fee4b .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.gloria-gra-863c2c4fee4b .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* remaining */
+.remaining-89e2503ff38c {
+  width: 26px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* 10% */
+.c-10-89e2503ff38d {
+  position: relative;
+  width: 26px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* progress */
+.progress-89e2503ff398 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff399 {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39a {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39b {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39c {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39d {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39e {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff39f {
+  width: 26px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e2503ff38e {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e2503ff38f {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e2503ff390 {
+  width: 2.6px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff391 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff392 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff393 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff394 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff395 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff396 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e2503ff397 {
+  width: 2.6px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* 87% */
+.c-87-863c2c4fee51 {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-87-863c2c4fee51 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-87-863c2c4fee51 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-87-863c2c4fee51 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-87-863c2c4fee51 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €17,400 */
+.c-17400-863c2c4fee52 {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-17400-863c2c4fee52 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-17400-863c2c4fee52 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-17400-863c2c4fee52 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-17400-863c2c4fee52 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c45ffcdb6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #fefcbfFF;
+}
+
+/* Mask */
+.mask-863c45ffcdb7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c45ffcdb7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar background */
+.avatar-bac-863c45ffcdb8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-863c45ffcdb9 {
+  position: absolute;
+  left: 7.54px;
+  top: 8.1px;
+  width: 60px;
+  height: 78.3px;
+}
+
+/* Body/Skin */
+.body-skin-863c45ffcdba > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c45ffcdba {
+  position: absolute;
+  left: 0.35px;
+  top: 5.1px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* 👔-Clothes */
+.clothes-863c4600201b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-863c4600201b {
+  position: absolute;
+  left: 0px;
+  top: 54px;
+  width: 60px;
+  height: 24.3px;
+}
+
+/* Face */
+.face-863c4600201e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-863c4600201e {
+  position: absolute;
+  left: 10.8px;
+  top: 18.32px;
+  width: 37.8px;
+  height: 24.58px;
+}
+
+/* Hair */
+.hair-863c46007d5f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-863c46007d5f {
+  position: absolute;
+  left: 1.76px;
+  top: 0px;
+  width: 55.8px;
+  height: 52.81px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c45ffcdbb > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c45ffcdbb {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c4600201a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c4600201a {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* Clothing / Scoop-Neck-6 */
+.clothing-8f58779fe20e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-8f58779fe20e {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 24.3px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-8f58779fe20f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-8f58779fe20f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 24.3px;
+}
+
+/* Mouth - Default */
+.mouth-de-863c4600201f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-863c4600201f {
+  position: absolute;
+  left: 14.96px;
+  top: 20.38px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-863c46002021 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.outline-de-863c46002021 {
+  position: absolute;
+  left: 6.11px;
+  top: 0px;
+  width: 26.4px;
+  height: 3.58px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c46002024 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c46002024 {
+  position: absolute;
+  left: 9.56px;
+  top: 7.62px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c46002027 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c46002027 {
+  position: absolute;
+  left: 15.34px;
+  top: 14.68px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* 🎨 Round-Glasses */
+.round-g-8f5877a05bfd {
+  position: absolute;
+  left: 0px;
+  top: 2.98px;
+  width: 37.8px;
+  height: 14.4px;
+}
+
+/* Mouth */
+.mouth-863c46002020 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-863c46002020 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-863c46002022 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-863c46002022 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-863c46002023 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-863c46002023 {
+  position: absolute;
+  left: 17.4px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eye */
+.eye-863c46002025 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c46002025 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c46002026 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c46002026 {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c46002028 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c46002028 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* 🎨 Round-Glasses-1 */
+.round-g-8f5877a05bfe > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.round-g-8f5877a05bfe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 37.8px;
+  height: 14.4px;
+}
+
+/* Top / Long Hair / TopLong-HairMia-Wallace */
+.top-long-863c46007d60 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-long-863c46007d60 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 55.8px;
+  height: 52.81px;
+}
+
+/* Group */
+.group-863c46007d61 {
+  position: absolute;
+  left: 0.6px;
+  top: 0px;
+  width: 54.6px;
+  height: 52.81px;
+}
+
+/* Shadow-13 */
+.shadow13-863c46007d62 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow13-863c46007d62 {
+  position: absolute;
+  left: 8.51px;
+  top: 1.88px;
+  width: 36.4px;
+  height: 20.03px;
+}
+
+/* 🎨 Hair-5 */
+.hair5-863c46007d63 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair5-863c46007d63 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 54.6px;
+  height: 52.81px;
+}
+
+/* info */
+.info-863c2d4f38e1 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 1 */
+.avatar-1-863c36435842 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-1-863c36435842 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 95% */
+.graph-elem-8dd4782b9843 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* data */
+.data-863c2d4f38e4 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Dana Lowe */
+.dana-lowe-863c2d4f38e5 {
+  width: 260px;
+  flex-shrink: 0;
+}
+.dana-lowe-863c2d4f38e5 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.dana-lowe-863c2d4f38e5 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.dana-lowe-863c2d4f38e5 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.dana-lowe-863c2d4f38e5 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* 10% */
+.c-10-8dd4782b9844 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* progress */
+.progress-8dd4782b9849 {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984a {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984b {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984c {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984d {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984e {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b984f {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b9850 {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b9851 {
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* 5% */
+.c-5-8dd4782b9845 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* 5% */
+.c-5-8dd4782b9847 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 0px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* remaining */
+.remaining-8dd4782b9846 {
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-8dd4782b9848 {
+  height: 10px;
+  background: #b794f4FF;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* 96% */
+.c-96-863c2d4f38eb {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-96-863c2d4f38eb .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-96-863c2d4f38eb .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-96-863c2d4f38eb .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-96-863c2d4f38eb .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €19,200 */
+.c-19200-863c2d4f38ec {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-19200-863c2d4f38ec .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-19200-863c2d4f38ec .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-19200-863c2d4f38ec .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-19200-863c2d4f38ec .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c36435843 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #fed7e2FF;
+}
+
+/* Mask */
+.mask-863c36435844 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c36435844 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar background */
+.avatar-bac-863c36435845 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-863c36435846 {
+  position: absolute;
+  left: 6px;
+  top: 4.5px;
+  width: 62.4px;
+  height: 80.7px;
+}
+
+/* Body/Skin */
+.body-skin-863c36435847 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c36435847 {
+  position: absolute;
+  left: 1.89px;
+  top: 7.5px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* 👔-Clothes */
+.clothes-863c3643aac3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-863c3643aac3 {
+  position: absolute;
+  left: 0.3px;
+  top: 56.1px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* Face */
+.face-863c3643aac6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-863c3643aac6 {
+  position: absolute;
+  left: 18.3px;
+  top: 22.5px;
+  width: 26.4px;
+  height: 22.8px;
+}
+
+/* Hair */
+.hair-863c3643aad1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-863c3643aad1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 62.4px;
+  height: 56.4px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c36435848 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c36435848 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c3643aac2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c3643aac2 {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* Clothing / V-Neck Shirt-4 */
+.clothing-8f5877816396 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-8f5877816396 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-8f5877816397 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-8f5877816397 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60.3px;
+  height: 24.6px;
+}
+
+/* Mouth - Default */
+.mouth-de-863c3643aac7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-863c3643aac7 {
+  position: absolute;
+  left: 9px;
+  top: 18.6px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Eyebrow / Outline / Raised-Excited Eyebrows */
+.eyebrow-8f5877818fef > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow-8f5877818fef {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 26.4px;
+  height: 5.64px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c3643aacc > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c3643aacc {
+  position: absolute;
+  left: 3.6px;
+  top: 5.84px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c3643aacf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c3643aacf {
+  position: absolute;
+  left: 9.38px;
+  top: 12.9px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Mouth */
+.mouth-863c3643aac8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-863c3643aac8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 8.4px;
+  height: 4.2px;
+}
+
+/* Eyebrow-13 */
+.eyebrow13-8f5877818ff0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow13-8f5877818ff0 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 5.64px;
+}
+
+/* Eyebrow-14 */
+.eyebrow14-8f5877818ff1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow14-8f5877818ff1 {
+  position: absolute;
+  left: 17.4px;
+  top: 0px;
+  width: 9px;
+  height: 5.64px;
+}
+
+/* Eye */
+.eye-863c3643aacd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c3643aacd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c3643aace > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c3643aace {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c3643aad0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c3643aad0 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Curly */
+.curly-863c3643aad2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.curly-863c3643aad2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 62.4px;
+  height: 56.4px;
+}
+
+/* Shadow-5 */
+.shadow5-863c3643aad3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow5-863c3643aad3 {
+  position: absolute;
+  left: 11.9px;
+  top: 4.54px;
+  width: 38.8px;
+  height: 23.91px;
+}
+
+/* 🎨 Curly! */
+.curly-863c3643d3f8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.curly-863c3643d3f8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 62.4px;
+  height: 56.4px;
+}
+
+/* info */
+.info-863c2938f641 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 5px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* avatar 6 */
+.avatar-6-863c2938f642 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avatar-6-863c2938f642 {
+  position: relative;
+  width: 75px;
+  height: 75px;
+  flex-shrink: 0;
+}
+
+/* Graph elements / progress bar / 100% */
+.graph-elem-89e92be06c5a {
+  position: relative;
+  width: 100%;
+  height: auto;
+  border-start-start-radius: 5px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  border-end-end-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  column-gap: 50px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* data */
+.data-863c2938f644 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Adnan Arroyo */
+.adnan-arro-863c2938f645 {
+  width: 260px;
+  flex-shrink: 0;
+}
+.adnan-arro-863c2938f645 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.adnan-arro-863c2938f645 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.adnan-arro-863c2938f645 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.adnan-arro-863c2938f645 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* progress level 25% */
+.progress-l-89e92be06c5b {
+  position: absolute;
+  left: 0px;
+  top: 30px;
+  width: 330.51px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 50% */
+.progress-l-89e92be06c60 {
+  position: absolute;
+  left: 0px;
+  top: 20px;
+  width: 330.51px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 75% */
+.progress-l-89e92be06c63 {
+  position: absolute;
+  left: 0px;
+  top: 10px;
+  width: 330.51px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: none;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* progress level 100% */
+.progress-l-89e92be06c68 {
+  position: relative;
+  width: 260px;
+  height: auto;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-items: start;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr;
+}
+
+/* remaining */
+.remaining-89e92be06c5c {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e92be06c5d {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e92be06c5e {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c5f {
+  width: 75px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e92be06c61 {
+  width: 150px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c62 {
+  width: 150px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* remaining */
+.remaining-89e92be06c64 {
+  width: 75px;
+  height: 10px;
+  background: #E2E8F0FF;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c65 {
+  width: 75px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c66 {
+  width: 75px;
+  height: 10px;
+  background: #b794f4FF;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c67 {
+  width: 75px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* progress */
+.progress-89e92be06c69 {
+  width: 260px;
+  height: 10px;
+  background: #b794f4FF;
+  border-start-start-radius: 5px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 5px;
+  border-end-end-radius: 5px;
+  flex-shrink: 0;
+}
+
+/* 100% */
+.c-100-863c2938f64b {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-100-863c2938f64b .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-100-863c2938f64b .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-100-863c2938f64b .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-100-863c2938f64b .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* €20,000 */
+.c-20000-863c2938f64c {
+  height: 20px;
+  flex-shrink: 0;
+}
+.c-20000-863c2938f64c .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.c-20000-863c2938f64c .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-20000-863c2938f64c .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.c-20000-863c2938f64c .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* avatar background */
+.avatar-bac-863c2938f64d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #e9d8fdFF;
+}
+
+/* Mask */
+.mask-863c2938f64e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-863c2938f64e {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+}
+
+/* avatar background */
+.avatar-bac-863c2938f64f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 75px;
+  height: 75px;
+  background: #a7ffc4FF;
+}
+
+/* Group */
+.group-863c2938f650 {
+  position: absolute;
+  left: 7.8px;
+  top: 6.9px;
+  width: 60px;
+  height: 76.8px;
+}
+
+/* Body/Skin */
+.body-skin-863c2938f651 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-863c2938f651 {
+  position: absolute;
+  left: 0.22px;
+  top: 3.6px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* 👔-Clothes */
+.clothes-863c2938f652 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-863c2938f652 {
+  position: absolute;
+  left: 0px;
+  top: 52.5px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* Face */
+.face-863c2938f653 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-863c2938f653 {
+  position: absolute;
+  left: 16.78px;
+  top: 18.92px;
+  width: 26.4px;
+  height: 23.98px;
+}
+
+/* Hair */
+.hair-863c2938f654 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-863c2938f654 {
+  position: absolute;
+  left: 11.1px;
+  top: 0px;
+  width: 44.08px;
+  height: 26.45px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-863c2938f655 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-863c2938f655 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.63px;
+  height: 73.2px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-863c2938f656 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-863c2938f656 {
+  position: absolute;
+  left: 12.9px;
+  top: 28.2px;
+  width: 32.83px;
+  height: 19.2px;
+}
+
+/* Clothing / Graphic T-Shirt */
+.clothing-863c2938f657 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-863c2938f657 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-863c2938f658 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-863c2938f658 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 60px;
+  height: 24.28px;
+}
+
+/* Clothing / Graphic / 🎨 Hola */
+.clothing-8f58774debd4 {
+  position: absolute;
+  left: 24.6px;
+  top: 11.4px;
+  width: 11.7px;
+  height: 11.4px;
+}
+
+/* 🎨 Hola */
+.hola-8f58774debd5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hola-8f58774debd5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.7px;
+  height: 11.4px;
+}
+
+/* Mouth / Mouth - Smile */
+.mouth-mo-8f58774e3fc2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-3.299999999999187px);
+}
+.mouth-mo-8f58774e3fc2 {
+  position: absolute;
+  left: 7.22px;
+  top: 18.28px;
+  width: 11.34px;
+  height: 5.7px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-863c2938f65c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.outline-de-863c2938f65c {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 26.4px;
+  height: 3.58px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-863c2938f65d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-863c2938f65d {
+  position: absolute;
+  left: 3.45px;
+  top: 5.52px;
+  width: 19.2px;
+  height: 3.6px;
+}
+
+/* Nose - Default */
+.nose-def-863c2938f65e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-863c2938f65e {
+  position: absolute;
+  left: 9.23px;
+  top: 12.58px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Mouth-6 */
+.mouth6-8f58774e3fc3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth6-8f58774e3fc3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.34px;
+  height: 5.7px;
+}
+
+/* Teeth-2 */
+.teeth2-8f58774e3fc4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.teeth2-8f58774e3fc4 {
+  position: absolute;
+  left: 1.17px;
+  top: 0px;
+  width: 9.3px;
+  height: 1.5px;
+}
+
+/* Tongue-1 */
+.tongue1-8f58774e7022 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue1-8f58774e7022 {
+  position: absolute;
+  left: 1.83px;
+  top: 3.3px;
+  width: 7.61px;
+  height: 2.4px;
+}
+
+/* Mouth-19 */
+.mouth19-8f58774e3fc5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth19-8f58774e3fc5 {
+  position: absolute;
+  left: -1.17px;
+  top: 0px;
+  width: 11.34px;
+  height: 5.7px;
+}
+
+/* Teeth-5 */
+.teeth5-8f58774e3fc6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.teeth5-8f58774e3fc6 {
+  position: absolute;
+  left: 0px;
+  top: -3.3px;
+  width: 9.3px;
+  height: 4.8px;
+}
+
+/* Mouth-18 */
+.mouth18-8f58774e7023 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth18-8f58774e7023 {
+  position: absolute;
+  left: -1.83px;
+  top: -3.3px;
+  width: 11.34px;
+  height: 5.7px;
+}
+
+/* Tongue-2 */
+.tongue2-8f58774e7024 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue2-8f58774e7024 {
+  position: absolute;
+  left: -0.97px;
+  top: 0px;
+  width: 9.6px;
+  height: 6.6px;
+}
+
+/* Tongue-3 */
+.tongue3-8f58774e7025 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue3-8f58774e7025 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 6.6px;
+  height: 6.6px;
+}
+
+/* Tongue-4 */
+.tongue4-8f58774e7026 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue4-8f58774e7026 {
+  position: absolute;
+  left: 3px;
+  top: 0px;
+  width: 6.6px;
+  height: 6.6px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-863c2938f668 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-863c2938f668 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-863c2938f669 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-863c2938f669 {
+  position: absolute;
+  left: 17.4px;
+  top: 0px;
+  width: 9px;
+  height: 3.58px;
+}
+
+/* Eye */
+.eye-863c2938f66a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-863c2938f66a {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Eye-1 */
+.eye1-863c2938f66b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-863c2938f66b {
+  position: absolute;
+  left: 15.6px;
+  top: 0px;
+  width: 3.6px;
+  height: 3.6px;
+}
+
+/* Nose */
+.nose-863c2938f66c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-863c2938f66c {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 7.04px;
+  height: 2.4px;
+}
+
+/* Top / Short Hair / Shaggy */
+.top-shor-8f58774e8019 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-8f58774e8019 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 44.08px;
+  height: 26.45px;
+}
+
+/* 🎨 Shaggy-Hair */
+.shaggy-8f58774e801a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shaggy-8f58774e801a {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 44.08px;
+  height: 26.45px;
+}
+
+/* options */
+.options-88d4eab92dbb {
+  position: relative;
+  width: auto;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: end;
+  column-gap: 15px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Team leaderboard */
+.team-leade-88d4eab92dc2 {
+  height: 26px;
+  flex-shrink: 0;
+}
+.team-leade-88d4eab92dc2 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.team-leade-88d4eab92dc2 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.team-leade-88d4eab92dc2 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.team-leade-88d4eab92dc2 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(45, 55, 72, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 21px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(45, 55, 72, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* Buttons / icon button */
+.buttons-88d4eab92dbc {
+  position: relative;
+  width: auto;
+  height: auto;
+  background: #E2E8F0FF;
+  border-start-start-radius: 40px;
+  border-start-end-radius: 40px;
+  border-end-start-radius: 40px;
+  border-end-end-radius: 40px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  gap: 10px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Icons / chevron-down */
+.icons-ch-8e03a9eb240b {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+/* icon / chevron-down */
+.icon-che-8e03a9eb240c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.icon-che-8e03a9eb240c {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+/* base-background */
+.basebackg-8e03a9eb240d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-8e03a9eb240d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+
+/* svg-path */
+.svgpath-8e03a9eb240e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-8e03a9eb240e {
+  position: absolute;
+  left: 4.93px;
+  top: 7.76px;
+  width: 14.14px;
+  height: 8.49px;
+}

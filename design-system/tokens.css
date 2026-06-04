@@ -1,0 +1,199 @@
+/* ============================================
+   DESIGN TOKENS — Sales Dashboard (Penpot)
+   Font: Poppins (all weights)
+   Modes: lm = light mode, dm = dark mode
+   ============================================ */
+
+/* --- COLORS --- */
+:root {
+  /* Light mode — text */
+  --lm-text-default: #2d3748;
+  --lm-text-emphasis: #000000;
+  --lm-text-secondary: #718096;
+  --lm-text-green-emphasis: #38a169;
+  --lm-text-green-default: #22543d;
+  --lm-text-red-emphasis: #e53e3e;
+  --lm-text-red-default: #822727;
+  --lm-text-blue: #2a4365;
+  --lm-text-yellow: #744210;
+
+  /* Light mode — backgrounds */
+  --lm-dashboard-background: #edf2f7;
+  --lm-card-background: #ffffff;
+  --lm-background-green: #f0fff4;
+  --lm-background-blue: #ebf8ff;
+  --lm-background-yellow: #fffff0;
+
+  /* Light mode — icons */
+  --lm-icon-default: #a0aec0;
+  --lm-icon-secondary: #e2e8f0;
+  --lm-icon-green: #276749;
+  --lm-icon-blue: #2a4365;
+  --lm-icon-yellow: #744210;
+  --lm-icon-red: #c53030;
+
+  /* Light mode — buttons */
+  --lm-button: #e2e8f0;
+  --lm-button-active: #a0aec0;
+  --lm-button-green: #c6f6d5;
+  --lm-button-blue: #bee3f8;
+  --lm-button-yellow: #fefcbf;
+
+  /* Light mode — charts */
+  --lm-chart-background: #e2e8f0;
+  --lm-chart-green: #68d391;
+  --lm-chart-red: #fc8181;
+  --lm-chart-yellow: #faf089;
+  --lm-chart-accent: #b794f4;
+  --lm-chart-accent-alt: #faf089;
+  --lm-axis-line: #a0aec0;
+  --lm-bar-line: rgba(160, 174, 192, 0.4);
+
+  /* Light mode — misc */
+  --lm-sidebar: #1a202c;
+  --lm-footer: #e2e8f0;
+  --lm-input: #edf2f7;
+  --lm-placeholder: #718096;
+  --lm-label: #4a5568;
+  --lm-shadow: rgba(0, 0, 0, 0.2);
+
+  /* Dark mode — text */
+  --dm-text-default: #a0aec0;
+  --dm-text-emphasis: #edf2f7;
+  --dm-text-green-emphasis: #9ae6b4;
+  --dm-text-green-default: #68d391;
+  --dm-text-red-emphasis: #fc8181;
+  --dm-text-red-default: #f56565;
+  --dm-text-blue: #63b3ed;
+  --dm-text-yellow: #faf089;
+
+  /* Dark mode — backgrounds */
+  --dm-dashboard-background: #1a202c;
+  --dm-card-background: #2d3748;
+  --dm-background-green: #1c4532;
+  --dm-background-blue: #1a365d;
+  --dm-background-yellow: #5f370e;
+
+  /* Dark mode — icons */
+  --dm-icon-default: #e2e8f0;
+  --dm-icon-secondary: #718096;
+
+  /* Dark mode — buttons */
+  --dm-button: #4a5568;
+  --dm-button-green: #2f855a;
+  --dm-button-blue: #2b6cb0;
+  --dm-button-yellow: #fefcbf;
+
+  /* Dark mode — charts */
+  --dm-chart-background: #4a5568;
+  --dm-chart-green: #38a169;
+  --dm-chart-red: #e53e3e;
+  --dm-chart-yellow: #ecc94b;
+  --dm-chart-accent: #9f7aea;
+  --dm-chart-accent-alt: #ecc94b;
+
+  /* Dark mode — misc */
+  --dm-sidebar: #171923;
+  --dm-footer: #1a202c;
+  --dm-input: #4a5568;
+  --dm-label: #a0aec0;
+
+  /* Palette — Greens */
+  --green-050: #f0fff4;
+  --green-100: #c6f6d5;
+  --green-300: #68d391;
+  --green-500: #38a169;
+  --green-600: #2f855a;
+  --green-700: #276749;
+  --green-800: #22543d;
+
+  /* Palette — Blues */
+  --blue-050: #ebf8ff;
+  --blue-100: #bee3f8;
+  --blue-700: #2c5282;
+  --blue-900: #1a365d;
+
+  /* Palette — Reds */
+  --red-100: #fed7d7;
+  --red-300: #fc8181;
+  --red-500: #e53e3e;
+  --red-600: #c53030;
+  --red-800: #822727;
+
+  /* Palette — Yellows */
+  --yellow-050: #fffff0;
+  --yellow-100: #fefcbf;
+  --yellow-200: #faf089;
+  --yellow-700: #975a16;
+  --yellow-800: #744210;
+
+  /* Palette — Grays */
+  --gray-100: #edf2f7;
+  --gray-200: #e2e8f0;
+  --gray-400: #a0aec0;
+  --gray-600: #4a5568;
+  --gray-700: #2d3748;
+  --gray-800: #1a202c;
+
+  /* Palette — Purples */
+  --purple-100: #e9d8fd;
+  --purple-300: #b794f4;
+  --purple-500: #805ad5;
+
+  /* Misc */
+  --pink-100: #fed7e2;
+  --white: #ffffff;
+  --shadow-light: rgba(0, 0, 0, 0.161);
+  --shadow-mid: rgba(0, 0, 0, 0.6);
+  --shadow-dark: rgba(0, 0, 0, 0.698);
+}
+
+/* --- TYPOGRAPHY --- */
+/* Font: Poppins — import from Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap'); */
+
+:root {
+  --font-family: 'Poppins', sans-serif;
+
+  /* H1 */
+  --font-h1-size: 24px;
+  --font-h1-weight: 500;
+
+  /* H2 */
+  --font-h2-size: 21px;
+  --font-h2-weight: 500;
+
+  /* H3 */
+  --font-h3-size: 18px;
+  --font-h3-weight: 500;
+
+  /* Label */
+  --font-label-size: 18px;
+  --font-label-weight: 400;
+
+  /* Paragraph */
+  --font-paragraph-size: 16px;
+  --font-paragraph-weight: 400;
+
+  /* Placeholder */
+  --font-placeholder-size: 16px;
+  --font-placeholder-weight: 400;
+
+  /* Axis label */
+  --font-axis-label-size: 14px;
+  --font-axis-label-weight: 400;
+
+  /* Axis value */
+  --font-axis-value-size: 14px;
+  --font-axis-value-weight: 400;
+
+  /* Numbers */
+  --font-small-number-size: 40px;
+  --font-small-number-weight: 500;
+
+  --font-medium-number-size: 62px;
+  --font-medium-number-weight: 500;
+
+  --font-big-number-size: 90px;
+  --font-big-number-weight: 500;
+}

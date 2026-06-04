@@ -1,0 +1,327 @@
+/* Component: Cards / content / Sales health indicator */
+
+/* Cards / content / Sales health indicator */
+.cards-co-88c84aefb9fe {
+  position: relative;
+  width: 100%;
+  background: #fffff0FF;
+  border-start-start-radius: 30px;
+  border-start-end-radius: 30px;
+  border-end-start-radius: 30px;
+  border-end-end-radius: 30px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 10px;
+  padding-inline-start: 20px;
+  padding-inline-end: 15px;
+  padding-block-start: 15px;
+  padding-block-end: 20px;
+  z-index: 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+}
+
+/* content */
+.content-88c84aefd187 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: end;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+  align-self: center;
+}
+
+/* header */
+.header-88c84aefd188 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+  column-gap: 20px;
+  padding-block-end: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* Graph / health indicator */
+.graph-he-8dc3d2c19667 {
+  position: relative;
+  width: 296.88px;
+  height: 150.73px;
+  flex-shrink: 0;
+  align-self: center;
+}
+
+/* segments */
+.segments-8dc3d2c19668 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 296.88px;
+  height: 150px;
+}
+
+/* dial inner */
+.dial-inner-8dc3d2c1966c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.dial-inner-8dc3d2c1966c {
+  position: absolute;
+  left: 30.8px;
+  top: 30px;
+  width: 236px;
+  height: 120.73px;
+}
+
+/* 70% */
+.c-70-8dc3d2c1966d {
+  position: absolute;
+  left: 30.8px;
+  top: 119.73px;
+  width: 235px;
+  height: 30px;
+}
+.c-70-8dc3d2c1966d .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.c-70-8dc3d2c1966d .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-70-8dc3d2c1966d .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 0.75;
+  margin: 0;
+  text-align: center;
+}
+.c-70-8dc3d2c1966d .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 40px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* arrow */
+.arrow-8dc3d2c1966e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.arrow-8dc3d2c1966e {
+  position: absolute;
+  left: 170.05px;
+  top: 76.25px;
+  width: 60px;
+  height: 0.01px;
+}
+
+/* red segment */
+.red-segmen-8dc3d2c19669 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.red-segmen-8dc3d2c19669 {
+  position: absolute;
+  left: 0px;
+  top: 18.56px;
+  width: 149.97px;
+  height: 131.44px;
+}
+
+/* green segment */
+.green-segm-8dc3d2c1966a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.green-segm-8dc3d2c1966a {
+  position: absolute;
+  left: 147.98px;
+  top: 21.06px;
+  width: 148.9px;
+  height: 128.94px;
+}
+
+/* yellow segment */
+.yellow-seg-8dc3d2c1966b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.yellow-seg-8dc3d2c1966b {
+  position: absolute;
+  left: 71.23px;
+  top: 0px;
+  width: 153.95px;
+  height: 149.72px;
+}
+
+/* options */
+.options-88c84aefd189 {
+  position: relative;
+  width: auto;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: end;
+  column-gap: 15px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Sales health indicator */
+.sales-heal-88c84aefd190 {
+  height: 26px;
+  flex-shrink: 0;
+}
+.sales-heal-88c84aefd190 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.sales-heal-88c84aefd190 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.sales-heal-88c84aefd190 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.sales-heal-88c84aefd190 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(116, 66, 16, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 21px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(116, 66, 16, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* icon button */
+.icon-butto-88c84aefd18a {
+  position: relative;
+  width: auto;
+  height: auto;
+  background: #fefcbfFF;
+  border-start-start-radius: 40px;
+  border-start-end-radius: 40px;
+  border-end-start-radius: 40px;
+  border-end-end-radius: 40px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  gap: 10px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Icons / chevron-down */
+.icons-ch-8e03a9eb2406 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+/* icon / chevron-down */
+.icon-che-8e03a9eb2407 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.icon-che-8e03a9eb2407 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+/* base-background */
+.basebackg-8e03a9eb2408 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-8e03a9eb2408 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+
+/* svg-path */
+.svgpath-8e03a9eb2409 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-8e03a9eb2409 {
+  position: absolute;
+  left: 4.93px;
+  top: 7.76px;
+  width: 14.14px;
+  height: 8.49px;
+}

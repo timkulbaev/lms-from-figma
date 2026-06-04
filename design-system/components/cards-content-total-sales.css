@@ -1,0 +1,427 @@
+/* Component: Cards / content / Total sales */
+
+/* Cards / content / Total sales */
+.cards-co-8dc3553a7762 {
+  position: relative;
+  width: 100%;
+  background: #f0fff4FF;
+  border-start-start-radius: 30px;
+  border-start-end-radius: 30px;
+  border-end-start-radius: 30px;
+  border-end-end-radius: 30px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: space-between;
+  padding-inline-start: 20px;
+  padding-inline-end: 15px;
+  padding-block-start: 15px;
+  padding-block-end: 20px;
+  z-index: 0;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+}
+
+/* content */
+.content-8dc3553a7763 {
+  position: relative;
+  width: 100%;
+  height: 161px;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: end;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* header */
+.header-8dc3553ab713 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+  column-gap: 20px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+/* big number */
+.big-number-8dc3553a7764 {
+  position: relative;
+  width: 324px;
+  height: 146px;
+  display: flex;
+  align-items: end;
+  align-content: stretch;
+  justify-content: start;
+  gap: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* Graph elements / squiggle graph */
+.graph-elem-8dc3553a7765 {
+  position: relative;
+  height: 57px;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* Graph elements / comparison / going up */
+.graph-elem-8dc3553a776a {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: center;
+  gap: 5px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex: 1;
+  align-self: end;
+}
+
+/* 393 */
+.c-393-8dc3553a7770 {
+  height: 68px;
+  flex-shrink: 0;
+}
+.c-393-8dc3553a7770 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-end;
+}
+.c-393-8dc3553a7770 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-393-8dc3553a7770 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 0.75;
+  margin: 0;
+  text-align: center;
+}
+.c-393-8dc3553a7770 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(34, 84, 61, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 90px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(34, 84, 61, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* squiggle graph */
+.squiggle-g-8dc3553a7766 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.squiggle-g-8dc3553a7766 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 69.5px;
+  height: 57px;
+}
+
+/* base-background */
+.basebackg-8dc3553a7767 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-8dc3553a7767 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 69.5px;
+  height: 57px;
+  display: none;
+}
+
+/* green */
+.green-8dc3553a7768 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.green-8dc3553a7768 {
+  position: absolute;
+  left: 0px;
+  top: 7.88px;
+  width: 69.22px;
+  height: 48.9px;
+}
+
+/* red */
+.red-8dc3553a7769 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.red-8dc3553a7769 {
+  position: absolute;
+  left: 0px;
+  top: 19.77px;
+  width: 69.22px;
+  height: 24.44px;
+  display: none;
+}
+
+/* icon / arrows / arrow-up */
+.icon-arr-919e420796c0 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+/* +5% */
+.c-5-8dc3553a776f {
+  height: 22px;
+  flex-shrink: 0;
+}
+.c-5-8dc3553a776f .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.c-5-8dc3553a776f .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.c-5-8dc3553a776f .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: right;
+}
+.c-5-8dc3553a776f .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(56, 161, 105, 1);
+  text-transform: unset;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 18px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(56, 161, 105, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* icon / arrow-up */
+.icon-arr-919e420796c1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.icon-arr-919e420796c1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+/* base-background */
+.basebackg-919e420796c2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-919e420796c2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+
+/* svg-path */
+.svgpath-919e420796c3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-919e420796c3 {
+  position: absolute;
+  left: 6.34px;
+  top: 3.29px;
+  width: 11.31px;
+  height: 17.42px;
+}
+
+/* options */
+.options-8dc3553ab714 {
+  position: relative;
+  width: auto;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: end;
+  column-gap: 15px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Total sales */
+.total-sale-8dc3553ab71a {
+  height: 26px;
+  flex-shrink: 0;
+}
+.total-sale-8dc3553ab71a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.total-sale-8dc3553ab71a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.total-sale-8dc3553ab71a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.total-sale-8dc3553ab71a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(34, 84, 61, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 21px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(34, 84, 61, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* icon button */
+.icon-butto-8dc3553ab715 {
+  position: relative;
+  width: auto;
+  height: auto;
+  background: #c6f6d5FF;
+  border-start-start-radius: 40px;
+  border-start-end-radius: 40px;
+  border-end-start-radius: 40px;
+  border-end-end-radius: 40px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  gap: 10px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Icons / chevron-down */
+.icons-ch-8e03a9ebd40f {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+
+/* icon / chevron-down */
+.icon-che-8e03a9ebd410 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.icon-che-8e03a9ebd410 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+}
+
+/* base-background */
+.basebackg-8e03a9ebd411 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-8e03a9ebd411 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+
+/* svg-path */
+.svgpath-8e03a9ebd412 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-8e03a9ebd412 {
+  position: absolute;
+  left: 4.93px;
+  top: 7.76px;
+  width: 14.14px;
+  height: 8.49px;
+}

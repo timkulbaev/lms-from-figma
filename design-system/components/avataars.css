@@ -1,0 +1,2697 @@
+/* Component: Avataars */
+
+/* Avataars */
+.avataars-8626fbbad949 {
+  position: relative;
+  width: 100%;
+  background: #ffffffFF;
+  overflow: hidden;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 30px;
+  padding-inline-start: 30px;
+  padding-inline-end: 30px;
+  padding-block-start: 30px;
+  padding-block-end: 30px;
+  z-index: 0;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  min-height: 159px;
+  min-block-size: 159px;
+}
+
+/* Avataars / avatar 6 */
+.avataars-8628024dc952 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avataars-8628024dc952 {
+  position: relative;
+  height: 100%;
+  flex: 1;
+  flex-shrink: 0;
+}
+
+/* Avataars / avatar 5 */
+.avataars-862809db0a7b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avataars-862809db0a7b {
+  position: relative;
+  width: 99px;
+  height: 99px;
+  flex-shrink: 0;
+}
+
+/* Avataars / avatar 4 */
+.avataars-8628082ecf23 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(-2.2737367544323206e-13px,0px);
+}
+.avataars-8628082ecf23 {
+  position: relative;
+  width: 99px;
+  height: 99px;
+  flex-shrink: 0;
+}
+
+/* Avataars / avatar 3 */
+.avataars-862807113999 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avataars-862807113999 {
+  position: relative;
+  width: 99px;
+  height: 99px;
+  flex-shrink: 0;
+}
+
+/* Avataars / avatar 2 */
+.avataars-862805b08cbf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avataars-862805b08cbf {
+  position: relative;
+  width: 99px;
+  height: 99px;
+  flex-shrink: 0;
+}
+
+/* Avataars / avatar 1 */
+.avataars-8628042aaf6e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.avataars-8628042aaf6e {
+  position: relative;
+  width: 99px;
+  height: 99px;
+  flex-shrink: 0;
+}
+
+/* avatar background */
+.avatar-bac-862fb1c77837 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #e9d8fdFF;
+}
+
+/* Mask */
+.mask-862fb05dc5f7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862fb05dc5f7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar background */
+.avatar-bac-862fa4ca2aa5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #a7ffc4FF;
+}
+
+/* Group */
+.group-862e631b8bf1 {
+  position: absolute;
+  left: 10.3px;
+  top: 9.11px;
+  width: 79.2px;
+  height: 101.38px;
+}
+
+/* Body/Skin */
+.body-skin-8628024dc953 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-8628024dc953 {
+  position: absolute;
+  left: 0.29px;
+  top: 4.75px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* 👔-Clothes */
+.clothes-8628024e68d1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-8628024e68d1 {
+  position: absolute;
+  left: 0px;
+  top: 69.3px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* Face */
+.face-8628024e68d4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(-4.547473508864641e-13px,0px);
+}
+.face-8628024e68d4 {
+  position: absolute;
+  left: 22.15px;
+  top: 24.98px;
+  width: 34.85px;
+  height: 31.65px;
+}
+
+/* Hair */
+.hair-8628024eaab5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-8628024eaab5 {
+  position: absolute;
+  left: 14.65px;
+  top: 0px;
+  width: 58.18px;
+  height: 34.92px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-8628024dc954 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-8628024dc954 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-8628024e1a14 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-8628024e1a14 {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* Clothing / Graphic T-Shirt */
+.clothing-86287465739d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-86287465739d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-86287465739e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-86287465739e {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* Clothing / Graphic / 🎨 Hola */
+.clothing-862913df66dc {
+  position: absolute;
+  left: 32.47px;
+  top: 15.05px;
+  width: 15.44px;
+  height: 15.05px;
+}
+
+/* 🎨 Hola */
+.hola-862913df66dd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hola-862913df66dd {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 15.44px;
+  height: 15.05px;
+}
+
+/* Mouth / Mouth - Smile */
+.mouth-mo-862a70d27dcd > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-4.355999999998858px);
+}
+.mouth-mo-862a70d27dcd {
+  position: absolute;
+  left: 9.53px;
+  top: 24.13px;
+  width: 14.96px;
+  height: 7.52px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-8628024e68d7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(-4.547473508864641e-13px,0px);
+}
+.outline-de-8628024e68d7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.85px;
+  height: 4.72px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-8628024e68da > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-8628024e68da {
+  position: absolute;
+  left: 4.55px;
+  top: 7.28px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-8628024eaab3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-8628024eaab3 {
+  position: absolute;
+  left: 12.19px;
+  top: 16.6px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Mouth-6 */
+.mouth6-862a70d27dce > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth6-862a70d27dce {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 14.96px;
+  height: 7.52px;
+}
+
+/* Teeth-2 */
+.teeth2-862a70d27dcf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.teeth2-862a70d27dcf {
+  position: absolute;
+  left: 1.54px;
+  top: 0px;
+  width: 12.28px;
+  height: 1.98px;
+}
+
+/* Tongue-1 */
+.tongue1-862a70d27dd0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue1-862a70d27dd0 {
+  position: absolute;
+  left: 2.42px;
+  top: 4.36px;
+  width: 10.04px;
+  height: 3.17px;
+}
+
+/* Mouth-19 */
+.mouth19-862a70d27dd1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth19-862a70d27dd1 {
+  position: absolute;
+  left: -1.54px;
+  top: 0px;
+  width: 14.96px;
+  height: 7.52px;
+}
+
+/* Teeth-5 */
+.teeth5-862a70d27dd2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.teeth5-862a70d27dd2 {
+  position: absolute;
+  left: 0px;
+  top: -4.36px;
+  width: 12.28px;
+  height: 6.34px;
+}
+
+/* Mouth-18 */
+.mouth18-862a70d27dd3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth18-862a70d27dd3 {
+  position: absolute;
+  left: -2.42px;
+  top: -4.36px;
+  width: 14.96px;
+  height: 7.52px;
+}
+
+/* Tongue-2 */
+.tongue2-862a70d27dd4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue2-862a70d27dd4 {
+  position: absolute;
+  left: -1.28px;
+  top: 0px;
+  width: 12.67px;
+  height: 8.71px;
+}
+
+/* Tongue-3 */
+.tongue3-862a70d27dd5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue3-862a70d27dd5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 8.71px;
+  height: 8.71px;
+}
+
+/* Tongue-4 */
+.tongue4-862a70d27dd6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.tongue4-862a70d27dd6 {
+  position: absolute;
+  left: 3.96px;
+  top: 0px;
+  width: 8.71px;
+  height: 8.71px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-8628024e68d8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-8628024e68d8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-8628024e68d9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-8628024e68d9 {
+  position: absolute;
+  left: 22.97px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eye */
+.eye-8628024e68db > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-8628024e68db {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-8628024eaab2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-8628024eaab2 {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-8628024eaab4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-8628024eaab4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Top / Short Hair / Shaggy */
+.top-shor-862b67597235 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-862b67597235 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.18px;
+  height: 34.92px;
+}
+
+/* 🎨 Shaggy-Hair */
+.shaggy-862b67597236 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shaggy-862b67597236 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.18px;
+  height: 34.92px;
+}
+
+/* avatar background */
+.avatar-bac-862f845460c8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #c6f6d5FF;
+}
+
+/* Mask */
+.mask-862f826788a2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862f826788a2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar background */
+.avatar-bac-862f7c0d5a40 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #a7ffc4FF;
+}
+
+/* Group */
+.group-862e5fb4bea3 {
+  position: absolute;
+  left: 9.05px;
+  top: 8.71px;
+  width: 79.39px;
+  height: 103.36px;
+}
+
+/* Body/Skin */
+.body-skin-862809db0a7c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-862809db0a7c {
+  position: absolute;
+  left: 0.97px;
+  top: 6.73px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Face */
+.face-862809db0a7e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-862809db0a7e {
+  position: absolute;
+  left: 22.83px;
+  top: 26.96px;
+  width: 34.85px;
+  height: 28.51px;
+}
+
+/* 👔-Clothes */
+.clothes-862809db0a7d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-862809db0a7d {
+  position: absolute;
+  left: 0px;
+  top: 68.11px;
+  width: 79.39px;
+  height: 35.09px;
+}
+
+/* Hair */
+.hair-862809db0a7f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-0.3960000000006403px);
+}
+.hair-862809db0a7f {
+  position: absolute;
+  left: 9.9px;
+  top: 0px;
+  width: 58.61px;
+  height: 102.06px;
+}
+
+/* 🎨 Collar + mask */
+.collar-86286df3ebd5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-86286df3ebd5 {
+  position: absolute;
+  left: 26.35px;
+  top: 68.11px;
+  width: 26.44px;
+  height: 14.65px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-862809db0a80 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-862809db0a80 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-862809db0a81 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-862809db0a81 {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-862809db0a85 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.outline-de-862809db0a85 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.85px;
+  height: 4.72px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-862809db0a86 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-862809db0a86 {
+  position: absolute;
+  left: 4.55px;
+  top: 7.28px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-862809db0a87 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-862809db0a87 {
+  position: absolute;
+  left: 12.19px;
+  top: 16.6px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Mouth / Mouth - Serious */
+.mouth-mo-862a40411e92 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-mo-862a40411e92 {
+  position: absolute;
+  left: 12.28px;
+  top: 26.14px;
+  width: 9.5px;
+  height: 2.38px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-862809db0a89 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-862809db0a89 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-862809db0a8a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-862809db0a8a {
+  position: absolute;
+  left: 22.97px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eye */
+.eye-862809db0a8b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-862809db0a8b {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-862809db0a8c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-862809db0a8c {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-862809db0a8d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-862809db0a8d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Why-so-serious */
+.whysoser-862a40411e93 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.whysoser-862a40411e93 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.5px;
+  height: 2.38px;
+}
+
+/* Clothing / Collar + Sweater-2 */
+.clothing-86286df38897 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-86286df38897 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.39px;
+  height: 35.09px;
+}
+
+/* Group */
+.group-862d649400d2 {
+  position: absolute;
+  left: 0px;
+  top: 2.84px;
+  width: 79.39px;
+  height: 32.25px;
+}
+
+/* 🎨 Sweater Colour */
+.sweater-86286df38898 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.sweater-86286df38898 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.39px;
+  height: 32.25px;
+}
+
+/* Straight-1 */
+.straight1-862b3e186f75 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-0.3960000000006403px);
+}
+.straight1-862b3e186f75 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58.61px;
+  height: 102.06px;
+}
+
+/* Group */
+.group-862d431145e7 {
+  position: absolute;
+  left: 1.19px;
+  top: -0.4px;
+  width: 57.02px;
+  height: 102.06px;
+}
+
+/* 🎨 Hair-2 */
+.hair2-862b3e186f76 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair2-862b3e186f76 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 57.02px;
+  height: 102.06px;
+}
+
+/* Shadow-2 */
+.shadow2-862b3e186f77 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow2-862b3e186f77 {
+  position: absolute;
+  left: 9.25px;
+  top: 31.65px;
+  width: 47.78px;
+  height: 40.67px;
+}
+
+/* Collar */
+.collar-86286df3ebd6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-86286df3ebd6 {
+  position: absolute;
+  left: 0px;
+  top: -2.83px;
+  width: 26.44px;
+  height: 17.48px;
+}
+
+/* neck cutout mask */
+.neck-cutou-86286df3ebd7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-cutou-86286df3ebd7 {
+  position: absolute;
+  left: 4.02px;
+  top: -4.35px;
+  width: 18.57px;
+  height: 13.94px;
+}
+
+/* avatar background */
+.avatar-bac-862f514465c8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #fefcbfFF;
+}
+
+/* Mask */
+.mask-862f4e831ee0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862f4e831ee0 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar background */
+.avatar-bac-862f49496aa5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-862e5c63c45d {
+  position: absolute;
+  left: 9.96px;
+  top: 10.69px;
+  width: 79.2px;
+  height: 103.36px;
+}
+
+/* Body/Skin */
+.body-skin-8628082ecf24 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-8628082ecf24 {
+  position: absolute;
+  left: 0.46px;
+  top: 6.73px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* 👔-Clothes */
+.clothes-8628082ecf25 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-8628082ecf25 {
+  position: absolute;
+  left: 0px;
+  top: 71.28px;
+  width: 79.2px;
+  height: 32.08px;
+}
+
+/* Face */
+.face-8628082ecf26 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-8628082ecf26 {
+  position: absolute;
+  left: 14.26px;
+  top: 24.19px;
+  width: 49.9px;
+  height: 32.44px;
+}
+
+/* Hair */
+.hair-8628082ecf27 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-8628082ecf27 {
+  position: absolute;
+  left: 2.32px;
+  top: 0px;
+  width: 73.66px;
+  height: 69.71px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-8628082ecf28 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-8628082ecf28 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-8628082ecf29 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-8628082ecf29 {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* Clothing / Scoop-Neck-6 */
+.clothing-862866f02a05 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-862866f02a05 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.08px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-862866f02a06 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-862866f02a06 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.08px;
+}
+
+/* Mouth - Default */
+.mouth-de-8628082ecf2c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-8628082ecf2c {
+  position: absolute;
+  left: 19.74px;
+  top: 26.9px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Outline-Default Eyebrows */
+.outline-de-8628082ecf2d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.outline-de-8628082ecf2d {
+  position: absolute;
+  left: 8.06px;
+  top: 0px;
+  width: 34.85px;
+  height: 4.72px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-8628082ecf2e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-8628082ecf2e {
+  position: absolute;
+  left: 12.62px;
+  top: 10.06px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-8628082ecf2f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-8628082ecf2f {
+  position: absolute;
+  left: 20.25px;
+  top: 19.37px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* 🎨 Round-Glasses */
+.round-g-8629cc2bad93 {
+  position: absolute;
+  left: 0px;
+  top: 3.93px;
+  width: 49.9px;
+  height: 19.01px;
+}
+
+/* Mouth */
+.mouth-8628082ecf30 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-8628082ecf30 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Eyebrow-11 */
+.eyebrow11-8628082ecf31 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow11-8628082ecf31 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eyebrow-12 */
+.eyebrow12-8628082ecf32 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow12-8628082ecf32 {
+  position: absolute;
+  left: 22.97px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Eye */
+.eye-8628082ecf33 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-8628082ecf33 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-8628082ecf34 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-8628082ecf34 {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-8628082ecf35 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-8628082ecf35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* 🎨 Round-Glasses-1 */
+.round-g-8629cc2bad94 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.round-g-8629cc2bad94 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 49.9px;
+  height: 19.01px;
+}
+
+/* Top / Long Hair / TopLong-HairMia-Wallace */
+.top-long-862bdadba637 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-long-862bdadba637 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 73.66px;
+  height: 69.71px;
+}
+
+/* Group */
+.group-862d23bcdfa5 {
+  position: absolute;
+  left: 0.79px;
+  top: 0px;
+  width: 72.07px;
+  height: 69.71px;
+}
+
+/* Shadow-13 */
+.shadow13-862bdadba638 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow13-862bdadba638 {
+  position: absolute;
+  left: 11.24px;
+  top: 2.48px;
+  width: 48.05px;
+  height: 26.44px;
+}
+
+/* 🎨 Hair-5 */
+.hair5-862bdadba639 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair5-862bdadba639 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 72.07px;
+  height: 69.71px;
+}
+
+/* avatar background */
+.avatar-bac-862e9ca28755 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #bee3f8FF;
+}
+
+/* Mask */
+.mask-862e94eed4e8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862e94eed4e8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar shape */
+.avatar-sha-862e679b1b34 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #B1B2B5FF;
+}
+
+/* Group */
+.group-862e58ad8981 {
+  position: absolute;
+  left: 10.01px;
+  top: 11.88px;
+  width: 79.25px;
+  height: 103.75px;
+}
+
+/* Body/Skin */
+.body-skin-86280711399a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-86280711399a {
+  position: absolute;
+  left: 0px;
+  top: 6.73px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* 👔-Clothes */
+.clothes-86280711399b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-86280711399b {
+  position: absolute;
+  left: 0px;
+  top: 71.28px;
+  width: 77.78px;
+  height: 32.47px;
+}
+
+/* Face */
+.face-86280711399c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-86280711399c {
+  position: absolute;
+  left: 22.23px;
+  top: 27.32px;
+  width: 34.87px;
+  height: 29.3px;
+}
+
+/* Facial Hair / Light Beard */
+.facial-hai-862c64c7fcec > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.facial-hai-862c64c7fcec {
+  position: absolute;
+  left: 16.29px;
+  top: 32.08px;
+  width: 45.14px;
+  height: 35.24px;
+}
+
+/* Hair */
+.hair-86280711399d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-86280711399d {
+  position: absolute;
+  left: 15.5px;
+  top: 0px;
+  width: 46.36px;
+  height: 32.18px;
+}
+
+/* Clothing / Crew Neck-1 */
+.clothing-862860969217 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-9.550688645584614px);
+}
+.clothing-862860969217 {
+  position: absolute;
+  left: 0.05px;
+  top: 71.28px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-86280711399e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-86280711399e {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-86280711399f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-86280711399f {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* V-Neck Shirt-4 */
+.v-neck-shi-8628071139a0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.v-neck-shi-8628071139a0 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.78px;
+  height: 32.47px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-8628071139a1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-8628071139a1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.78px;
+  height: 32.47px;
+}
+
+/* Mouth - Default */
+.mouth-de-8628071139a2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-8628071139a2 {
+  position: absolute;
+  left: 11.31px;
+  top: 23.76px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-8628071139a4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-8628071139a4 {
+  position: absolute;
+  left: 4.19px;
+  top: 6.92px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-8628071139a5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-8628071139a5 {
+  position: absolute;
+  left: 11.82px;
+  top: 16.24px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Eyebrow / Outline / Up-Down Eyebrows */
+.eyebrow-8629590559e9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-9.691848390502855e-8px);
+}
+.eyebrow-8629590559e9 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.87px;
+  height: 7.69px;
+}
+
+/* Mouth */
+.mouth-8628071139a6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-8628071139a6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Eye */
+.eye-8628071139a9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-8628071139a9 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-8628071139aa > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-8628071139aa {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-8628071139ab > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-8628071139ab {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Eyebrow-17 */
+.eyebrow17-8629590559ea > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow17-8629590559ea {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 4.92px;
+}
+
+/* Eyebrow-18 */
+.eyebrow18-8629590559eb > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow18-8629590559eb {
+  position: absolute;
+  left: 22.99px;
+  top: 2.97px;
+  width: 11.88px;
+  height: 4.72px;
+}
+
+/* Lite-Beard */
+.lite-beard-862c64c7fced > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.lite-beard-862c64c7fced {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 45.14px;
+  height: 35.24px;
+}
+
+/* Top / Short Hair / Drop-Fade-Fro */
+.top-shor-862baf576a63 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-862baf576a63 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 46.36px;
+  height: 32.18px;
+}
+
+/* 🎨 Drop-Fade-Fro */
+.drop-fa-862baf576a64 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.drop-fa-862baf576a64 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 45.96px;
+  height: 32.18px;
+}
+
+/* 🎨 Shirt Colour-21 */
+.shirt-c-862860969218 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-862860969218 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* Collar-15 */
+.collar15-862860969219 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar15-862860969219 {
+  position: absolute;
+  left: 24.1px;
+  top: 0px;
+  width: 31.39px;
+  height: 11.77px;
+}
+
+/* collar mask-11 */
+.collar-mas-86286096921a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-mas-86286096921a {
+  position: absolute;
+  left: -24.1px;
+  top: 0px;
+  width: 79.2px;
+  height: 32.06px;
+}
+
+/* collar shade-11 */
+.collar-sha-86286096921b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-sha-86286096921b {
+  position: absolute;
+  left: 0px;
+  top: -9.55px;
+  width: 31.39px;
+  height: 21.32px;
+}
+
+/* avatar background */
+.avatar-bac-862f2e209edc {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #FED7D7FF;
+}
+
+/* Mask */
+.mask-862f2cc3162d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862f2cc3162d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar background */
+.avatar-bac-862f1f9b308c {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-862e5501d499 {
+  position: absolute;
+  left: 9.5px;
+  top: 11.09px;
+  width: 79.6px;
+  height: 103.36px;
+}
+
+/* Body/Skin */
+.body-skin-862805b08cc0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-862805b08cc0 {
+  position: absolute;
+  left: 1.02px;
+  top: 6.34px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* 👔-Clothes */
+.clothes-862805b08cc1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-9.107999999999265px);
+}
+.clothes-862805b08cc1 {
+  position: absolute;
+  left: 0px;
+  top: 70.49px;
+  width: 79.6px;
+  height: 32.87px;
+}
+
+/* Face */
+.face-862805b08cc2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-4.547473508864641e-13px);
+}
+.face-862805b08cc2 {
+  position: absolute;
+  left: 22.69px;
+  top: 27.51px;
+  width: 34.85px;
+  height: 28.72px;
+}
+
+/* Hair */
+.hair-862805b08cc3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-862805b08cc3 {
+  position: absolute;
+  left: 15.84px;
+  top: 0px;
+  width: 47.92px;
+  height: 36.04px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-862805b08cc4 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-862805b08cc4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-862805b08cc5 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-862805b08cc5 {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* Clothing / Blazer + Shirt-2 */
+.clothing-862840eed552 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-9.107999999999265px);
+}
+.clothing-862840eed552 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.6px;
+  height: 32.87px;
+}
+
+/* Shirt */
+.shirt-862840eed553 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,-9.503999999999905px);
+}
+.shirt-862840eed553 {
+  position: absolute;
+  left: 0px;
+  top: 0.4px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* Blazer */
+.blazer-862840ef33ed > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.blazer-862840ef33ed {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.6px;
+  height: 32.87px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-862840eed554 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-862840eed554 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* Collar */
+.collar-862840eed555 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-862840eed555 {
+  position: absolute;
+  left: 24.16px;
+  top: 0px;
+  width: 31.68px;
+  height: 11.88px;
+}
+
+/* mask */
+.mask-862840eed556 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862840eed556 {
+  position: absolute;
+  left: -24.16px;
+  top: 0px;
+  width: 79.99px;
+  height: 32.47px;
+}
+
+/* collar shade */
+.collar-sha-862840eed557 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.collar-sha-862840eed557 {
+  position: absolute;
+  left: 0px;
+  top: -9.5px;
+  width: 31.68px;
+  height: 21.38px;
+}
+
+/* 🎨 Saco */
+.saco-862840ef33ee > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.saco-862840ef33ee {
+  position: absolute;
+  left: 0px;
+  top: 0.4px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* 🎨 Pocket-hanky */
+.pocket-862840ef33ef > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.pocket-862840ef33ef {
+  position: absolute;
+  left: 59.4px;
+  top: 20.2px;
+  width: 8.32px;
+  height: 3.17px;
+}
+
+/* 🎨 Wing */
+.wing-862840ef33f0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.wing-862840ef33f0 {
+  position: absolute;
+  left: 17.42px;
+  top: 0px;
+  width: 11.88px;
+  height: 32.87px;
+}
+
+/* 🎨 Wing-1 */
+.wing1-862840ef33f1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.wing1-862840ef33f1 {
+  position: absolute;
+  left: 50.29px;
+  top: 0px;
+  width: 11.88px;
+  height: 32.87px;
+}
+
+/* Mouth - Default */
+.mouth-de-862805b08cc8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-862805b08cc8 {
+  position: absolute;
+  left: 11.88px;
+  top: 23.18px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-862805b08cca > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.default-ey-862805b08cca {
+  position: absolute;
+  left: 4.75px;
+  top: 6.34px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-862805b08ccb > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-862805b08ccb {
+  position: absolute;
+  left: 12.39px;
+  top: 15.65px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Eyebrow / Outline / Sad-Concerned Eyebrows */
+.eyebrow-8629fa3d1828 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow-8629fa3d1828 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.85px;
+  height: 6.73px;
+}
+
+/* Mouth */
+.mouth-862805b08ccc > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-862805b08ccc {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Eye */
+.eye-862805b08ccf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-862805b08ccf {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-862805b08cd0 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-862805b08cd0 {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-862805b08cd1 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-862805b08cd1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Eyebrow-15 */
+.eyebrow15-8629fa3d1829 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow15-8629fa3d1829 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 6.73px;
+}
+
+/* Eyebrow-16 */
+.eyebrow16-8629fa3d182a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow16-8629fa3d182a {
+  position: absolute;
+  left: 22.97px;
+  top: 0px;
+  width: 11.88px;
+  height: 6.73px;
+}
+
+/* Top / Short Hair / Short-Curly */
+.top-shor-862b02b73730 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.top-shor-862b02b73730 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 47.92px;
+  height: 36.04px;
+}
+
+/* 🎨 Short-Hair-1 */
+.short-h-862b02b73731 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.short-h-862b02b73731 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 47.92px;
+  height: 36.04px;
+}
+
+/* avatar background */
+.avatar-bac-862f0b7b19eb {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #fed7e2FF;
+}
+
+/* Mask */
+.mask-862ef8f8a175 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mask-862ef8f8a175 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+}
+
+/* avatar background */
+.avatar-bac-862ee4c449f2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99px;
+  height: 99px;
+  background: #b1e2ffFF;
+}
+
+/* Group */
+.group-862e5279df93 {
+  position: absolute;
+  left: 7.92px;
+  top: 5.94px;
+  width: 82.37px;
+  height: 106.52px;
+}
+
+/* Body/Skin */
+.body-skin-8628042aaf6f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.body-skin-8628042aaf6f {
+  position: absolute;
+  left: 2.49px;
+  top: 9.9px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* 👔-Clothes */
+.clothes-8628042aaf70 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothes-8628042aaf70 {
+  position: absolute;
+  left: 0.4px;
+  top: 74.05px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* Face */
+.face-8628042aaf71 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.face-8628042aaf71 {
+  position: absolute;
+  left: 24.16px;
+  top: 29.7px;
+  width: 34.85px;
+  height: 30.1px;
+}
+
+/* Hair */
+.hair-8628042aaf72 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.hair-8628042aaf72 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 82.37px;
+  height: 74.45px;
+}
+
+/* 🎨 Skin-Body-1 */
+.skin-bo-8628042aaf73 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.skin-bo-8628042aaf73 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 77.39px;
+  height: 96.62px;
+}
+
+/* Neck-Shadow-1 */
+.neck-shado-8628042aaf74 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.neck-shado-8628042aaf74 {
+  position: absolute;
+  left: 17.03px;
+  top: 37.22px;
+  width: 43.34px;
+  height: 25.34px;
+}
+
+/* Clothing / V-Neck Shirt-4 */
+.clothing-862877e557e2 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.clothing-862877e557e2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* 🎨 Shirt Colour */
+.shirt-c-862877e557e3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shirt-c-862877e557e3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 79.6px;
+  height: 32.47px;
+}
+
+/* Mouth - Default */
+.mouth-de-8628042aaf77 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-de-8628042aaf77 {
+  position: absolute;
+  left: 11.88px;
+  top: 24.55px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Eyebrow / Outline / Raised-Excited Eyebrows */
+.eyebrow-862950ccb6a7 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow-862950ccb6a7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 34.85px;
+  height: 7.45px;
+}
+
+/* Default Eyes-😀 */
+.default-ey-8628042aaf79 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(-1.1368683772161603e-13px,0px);
+}
+.default-ey-8628042aaf79 {
+  position: absolute;
+  left: 4.75px;
+  top: 7.71px;
+  width: 25.34px;
+  height: 4.75px;
+}
+
+/* Nose - Default */
+.nose-def-8628042aaf7a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-def-8628042aaf7a {
+  position: absolute;
+  left: 12.39px;
+  top: 17.03px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Mouth */
+.mouth-8628042aaf7b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.mouth-8628042aaf7b {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.09px;
+  height: 5.54px;
+}
+
+/* Eyebrow-13 */
+.eyebrow13-862950ccb6a8 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow13-862950ccb6a8 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 11.88px;
+  height: 7.45px;
+}
+
+/* Eyebrow-14 */
+.eyebrow14-862950ccb6a9 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eyebrow14-862950ccb6a9 {
+  position: absolute;
+  left: 22.97px;
+  top: 0px;
+  width: 11.88px;
+  height: 7.45px;
+}
+
+/* Eye */
+.eye-8628042aaf7e > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye-8628042aaf7e {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Eye-1 */
+.eye1-8628042aaf7f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.eye1-8628042aaf7f {
+  position: absolute;
+  left: 20.59px;
+  top: 0px;
+  width: 4.75px;
+  height: 4.75px;
+}
+
+/* Nose */
+.nose-8628042aaf80 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.nose-8628042aaf80 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 9.29px;
+  height: 3.17px;
+}
+
+/* Curly */
+.curly-8628042aaf81 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.curly-8628042aaf81 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 82.37px;
+  height: 74.45px;
+}
+
+/* Shadow-5 */
+.shadow5-8628042aaf82 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.shadow5-8628042aaf82 {
+  position: absolute;
+  left: 15.7px;
+  top: 5.99px;
+  width: 51.22px;
+  height: 31.55px;
+}
+
+/* 🎨 Curly! */
+.curly-8628042aaf83 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.curly-8628042aaf83 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 82.37px;
+  height: 74.45px;
+}
